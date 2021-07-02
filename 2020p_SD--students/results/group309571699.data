@@ -1,0 +1,2458 @@
+
+##### group309571699	2020/05/15 10:35:44
+----- [group309571699@169.254.236.215:35000] Result:
+ Group id: group309571699
+Node id: group309571699@169.254.236.215:35000
+Recipes: {^sjndsqv=[^sjndsqv, Content--^sjndsqv, group309571699], bgjnyixb=[bgjnyixb, Content--bgjnyixb, group309571699], chkfaqcj=[chkfaqcj, Content--chkfaqcj, group309571699], kfgwfegd=[kfgwfegd, Content--kfgwfegd, group309571699], lvgbwbeo=[lvgbwbeo, Content--lvgbwbeo, group309571699], mubuxqun=[mubuxqun, Content--mubuxqun, group309571699], pjeyvxih=[pjeyvxih, Content--pjeyvxih, group309571699], qgbwsxiv=[qgbwsxiv, Content--qgbwsxiv, group309571699], rgxumppk=[rgxumppk, Content--rgxumppk, group309571699], thsreiin=[thsreiin, Content--thsreiin, group309571699], usxxvjph=[usxxvjph, Content--usxxvjph, group309571699], vvqwkfsm=[vvqwkfsm, Content--vvqwkfsm, group309571699]}
+Log: RemoveOperation [recipeTitle=sloukttq, recipeTimestamp=group309571699@169.254.236.215:35000:   0, timestamp=group309571699@169.254.236.215:35002:   2]
+RemoveOperation [recipeTitle=xxohbihf, recipeTimestamp=group309571699@169.254.236.215:35002:   0, timestamp=group309571699@169.254.236.215:35002:   3]
+RemoveOperation [recipeTitle=dsaepmmw, recipeTimestamp=group309571699@169.254.236.215:35004:   0, timestamp=group309571699@169.254.236.215:35002:   4]
+RemoveOperation [recipeTitle=irggtnsw, recipeTimestamp=group309571699@169.254.236.215:35004:   4, timestamp=group309571699@169.254.236.215:35002:   5]
+
+Summary: group309571699@169.254.236.215:35002:   1
+group309571699@169.254.236.215:35003:   11
+group309571699@169.254.236.215:35004:   6
+group309571699@169.254.236.215:35000:   6
+group309571699@169.254.236.215:35001:   5
+
+Ack: group309571699@169.254.236.215:35002:   group309571699@169.254.236.215:35002:   1
+group309571699@169.254.236.215:35003:   11
+group309571699@169.254.236.215:35004:   6
+group309571699@169.254.236.215:35000:   6
+group309571699@169.254.236.215:35001:   5
+
+group309571699@169.254.236.215:35003:   group309571699@169.254.236.215:35002:   1
+group309571699@169.254.236.215:35003:   11
+group309571699@169.254.236.215:35004:   6
+group309571699@169.254.236.215:35000:   6
+group309571699@169.254.236.215:35001:   5
+
+group309571699@169.254.236.215:35004:   group309571699@169.254.236.215:35002:   1
+group309571699@169.254.236.215:35003:   11
+group309571699@169.254.236.215:35004:   6
+group309571699@169.254.236.215:35000:   6
+group309571699@169.254.236.215:35001:   5
+
+group309571699@169.254.236.215:35000:   group309571699@169.254.236.215:35002:   1
+group309571699@169.254.236.215:35003:   11
+group309571699@169.254.236.215:35004:   6
+group309571699@169.254.236.215:35000:   6
+group309571699@169.254.236.215:35001:   5
+
+group309571699@169.254.236.215:35001:   group309571699@169.254.236.215:35002:   1
+group309571699@169.254.236.215:35003:   11
+group309571699@169.254.236.215:35004:   6
+group309571699@169.254.236.215:35000:   6
+group309571699@169.254.236.215:35001:   5
+
+
+##### group309571699	2020/05/15 10:35:44
+----- [group309571699@169.254.236.215:35001] Result:
+ Group id: group309571699
+Node id: group309571699@169.254.236.215:35001
+Recipes: {^sjndsqv=[^sjndsqv, Content--^sjndsqv, group309571699], bgjnyixb=[bgjnyixb, Content--bgjnyixb, group309571699], chkfaqcj=[chkfaqcj, Content--chkfaqcj, group309571699], kfgwfegd=[kfgwfegd, Content--kfgwfegd, group309571699], lvgbwbeo=[lvgbwbeo, Content--lvgbwbeo, group309571699], mubuxqun=[mubuxqun, Content--mubuxqun, group309571699], pjeyvxih=[pjeyvxih, Content--pjeyvxih, group309571699], qgbwsxiv=[qgbwsxiv, Content--qgbwsxiv, group309571699], rgxumppk=[rgxumppk, Content--rgxumppk, group309571699], thsreiin=[thsreiin, Content--thsreiin, group309571699], usxxvjph=[usxxvjph, Content--usxxvjph, group309571699], vvqwkfsm=[vvqwkfsm, Content--vvqwkfsm, group309571699]}
+Log: RemoveOperation [recipeTitle=sloukttq, recipeTimestamp=group309571699@169.254.236.215:35000:   0, timestamp=group309571699@169.254.236.215:35002:   2]
+RemoveOperation [recipeTitle=xxohbihf, recipeTimestamp=group309571699@169.254.236.215:35002:   0, timestamp=group309571699@169.254.236.215:35002:   3]
+RemoveOperation [recipeTitle=dsaepmmw, recipeTimestamp=group309571699@169.254.236.215:35004:   0, timestamp=group309571699@169.254.236.215:35002:   4]
+RemoveOperation [recipeTitle=irggtnsw, recipeTimestamp=group309571699@169.254.236.215:35004:   4, timestamp=group309571699@169.254.236.215:35002:   5]
+
+Summary: group309571699@169.254.236.215:35002:   1
+group309571699@169.254.236.215:35003:   11
+group309571699@169.254.236.215:35004:   6
+group309571699@169.254.236.215:35000:   6
+group309571699@169.254.236.215:35001:   5
+
+Ack: group309571699@169.254.236.215:35002:   group309571699@169.254.236.215:35002:   1
+group309571699@169.254.236.215:35003:   11
+group309571699@169.254.236.215:35004:   6
+group309571699@169.254.236.215:35000:   6
+group309571699@169.254.236.215:35001:   5
+
+group309571699@169.254.236.215:35003:   group309571699@169.254.236.215:35002:   1
+group309571699@169.254.236.215:35003:   11
+group309571699@169.254.236.215:35004:   6
+group309571699@169.254.236.215:35000:   6
+group309571699@169.254.236.215:35001:   5
+
+group309571699@169.254.236.215:35004:   group309571699@169.254.236.215:35002:   1
+group309571699@169.254.236.215:35003:   11
+group309571699@169.254.236.215:35004:   6
+group309571699@169.254.236.215:35000:   6
+group309571699@169.254.236.215:35001:   5
+
+group309571699@169.254.236.215:35000:   group309571699@169.254.236.215:35002:   1
+group309571699@169.254.236.215:35003:   11
+group309571699@169.254.236.215:35004:   6
+group309571699@169.254.236.215:35000:   6
+group309571699@169.254.236.215:35001:   5
+
+group309571699@169.254.236.215:35001:   group309571699@169.254.236.215:35002:   1
+group309571699@169.254.236.215:35003:   11
+group309571699@169.254.236.215:35004:   6
+group309571699@169.254.236.215:35000:   6
+group309571699@169.254.236.215:35001:   5
+
+
+##### group309571699	2020/05/15 10:35:44
+----- [group309571699@169.254.236.215:35002] Result:
+ Group id: group309571699
+Node id: group309571699@169.254.236.215:35002
+Recipes: {^sjndsqv=[^sjndsqv, Content--^sjndsqv, group309571699], bgjnyixb=[bgjnyixb, Content--bgjnyixb, group309571699], chkfaqcj=[chkfaqcj, Content--chkfaqcj, group309571699], egcnkiba=[egcnkiba, Content--egcnkiba, group309571699], etnbwcmc=[etnbwcmc, Content--etnbwcmc, group309571699], kfgwfegd=[kfgwfegd, Content--kfgwfegd, group309571699], lvgbwbeo=[lvgbwbeo, Content--lvgbwbeo, group309571699], mubuxqun=[mubuxqun, Content--mubuxqun, group309571699], pjeyvxih=[pjeyvxih, Content--pjeyvxih, group309571699], qgbwsxiv=[qgbwsxiv, Content--qgbwsxiv, group309571699], rgxumppk=[rgxumppk, Content--rgxumppk, group309571699], thsreiin=[thsreiin, Content--thsreiin, group309571699], usxxvjph=[usxxvjph, Content--usxxvjph, group309571699], vvqwkfsm=[vvqwkfsm, Content--vvqwkfsm, group309571699]}
+Log: RemoveOperation [recipeTitle=sloukttq, recipeTimestamp=group309571699@169.254.236.215:35000:   0, timestamp=group309571699@169.254.236.215:35002:   2]
+RemoveOperation [recipeTitle=xxohbihf, recipeTimestamp=group309571699@169.254.236.215:35002:   0, timestamp=group309571699@169.254.236.215:35002:   3]
+RemoveOperation [recipeTitle=dsaepmmw, recipeTimestamp=group309571699@169.254.236.215:35004:   0, timestamp=group309571699@169.254.236.215:35002:   4]
+RemoveOperation [recipeTitle=irggtnsw, recipeTimestamp=group309571699@169.254.236.215:35004:   4, timestamp=group309571699@169.254.236.215:35002:   5]
+
+Summary: group309571699@169.254.236.215:35002:   1
+group309571699@169.254.236.215:35003:   11
+group309571699@169.254.236.215:35004:   6
+group309571699@169.254.236.215:35000:   6
+group309571699@169.254.236.215:35001:   5
+
+Ack: group309571699@169.254.236.215:35002:   group309571699@169.254.236.215:35002:   1
+group309571699@169.254.236.215:35003:   11
+group309571699@169.254.236.215:35004:   6
+group309571699@169.254.236.215:35000:   6
+group309571699@169.254.236.215:35001:   5
+
+group309571699@169.254.236.215:35003:   group309571699@169.254.236.215:35002:   1
+group309571699@169.254.236.215:35003:   11
+group309571699@169.254.236.215:35004:   6
+group309571699@169.254.236.215:35000:   6
+group309571699@169.254.236.215:35001:   5
+
+group309571699@169.254.236.215:35004:   group309571699@169.254.236.215:35002:   1
+group309571699@169.254.236.215:35003:   11
+group309571699@169.254.236.215:35004:   6
+group309571699@169.254.236.215:35000:   6
+group309571699@169.254.236.215:35001:   5
+
+group309571699@169.254.236.215:35000:   group309571699@169.254.236.215:35002:   1
+group309571699@169.254.236.215:35003:   11
+group309571699@169.254.236.215:35004:   6
+group309571699@169.254.236.215:35000:   6
+group309571699@169.254.236.215:35001:   5
+
+group309571699@169.254.236.215:35001:   group309571699@169.254.236.215:35002:   1
+group309571699@169.254.236.215:35003:   11
+group309571699@169.254.236.215:35004:   6
+group309571699@169.254.236.215:35000:   6
+group309571699@169.254.236.215:35001:   5
+
+================================================
+
+##### group309571699	2020/05/15 10:44:15
+----- [group309571699@169.254.236.215:35000] Result:
+ Group id: group309571699
+Node id: group309571699@169.254.236.215:35000
+Recipes: {awabmbvg=[awabmbvg, Content--awabmbvg, group309571699], bgvtetbw=[bgvtetbw, Content--bgvtetbw, group309571699], cerrwbtd=[cerrwbtd, Content--cerrwbtd, group309571699], ecxsrjtc=[ecxsrjtc, Content--ecxsrjtc, group309571699], ffvackko=[ffvackko, Content--ffvackko, group309571699], hrbconft=[hrbconft, Content--hrbconft, group309571699], irxxbsaf=[irxxbsaf, Content--irxxbsaf, group309571699], jymquvjh=[jymquvjh, Content--jymquvjh, group309571699], mpbpwuxj=[mpbpwuxj, Content--mpbpwuxj, group309571699], rdk^cafl=[rdk^cafl, Content--rdk^cafl, group309571699], sttyoxds=[sttyoxds, Content--sttyoxds, group309571699], swvivfod=[swvivfod, Content--swvivfod, group309571699], thdljlwg=[thdljlwg, Content--thdljlwg, group309571699], ufglfxpf=[ufglfxpf, Content--ufglfxpf, group309571699], vhdhaarl=[vhdhaarl, Content--vhdhaarl, group309571699], wjowfbuy=[wjowfbuy, Content--wjowfbuy, group309571699], ycnyspei=[ycnyspei, Content--ycnyspei, group309571699], yicjylla=[yicjylla, Content--yicjylla, group309571699]}
+Log: RemoveOperation [recipeTitle=mjiikxjx, recipeTimestamp=group309571699@169.254.236.215:35003:   8, timestamp=group309571699@169.254.236.215:35003:   11]
+AddOperation [recipe=[ffvackko, Content--ffvackko, group309571699], timestamp=group309571699@169.254.236.215:35004:   8]
+RemoveOperation [recipeTitle=mjiikxjx, recipeTimestamp=group309571699@169.254.236.215:35003:   8, timestamp=group309571699@169.254.236.215:35004:   9]
+AddOperation [recipe=[rdk^cafl, Content--rdk^cafl, group309571699], timestamp=group309571699@169.254.236.215:35004:   10]
+AddOperation [recipe=[ecxsrjtc, Content--ecxsrjtc, group309571699], timestamp=group309571699@169.254.236.215:35000:   8]
+RemoveOperation [recipeTitle=mjiikxjx, recipeTimestamp=group309571699@169.254.236.215:35003:   8, timestamp=group309571699@169.254.236.215:35000:   9]
+AddOperation [recipe=[sttyoxds, Content--sttyoxds, group309571699], timestamp=group309571699@169.254.236.215:35001:   9]
+RemoveOperation [recipeTitle=mjiikxjx, recipeTimestamp=group309571699@169.254.236.215:35003:   8, timestamp=group309571699@169.254.236.215:35001:   10]
+
+Summary: group309571699@169.254.236.215:35002:   9
+group309571699@169.254.236.215:35003:   11
+group309571699@169.254.236.215:35004:   10
+group309571699@169.254.236.215:35000:   9
+group309571699@169.254.236.215:35001:   10
+
+Ack: group309571699@169.254.236.215:35002:   group309571699@169.254.236.215:35002:   9
+group309571699@169.254.236.215:35003:   10
+group309571699@169.254.236.215:35004:   7
+group309571699@169.254.236.215:35000:   7
+group309571699@169.254.236.215:35001:   8
+
+group309571699@169.254.236.215:35003:   group309571699@169.254.236.215:35002:   9
+group309571699@169.254.236.215:35003:   11
+group309571699@169.254.236.215:35004:   10
+group309571699@169.254.236.215:35000:   9
+group309571699@169.254.236.215:35001:   10
+
+group309571699@169.254.236.215:35004:   group309571699@169.254.236.215:35002:   9
+group309571699@169.254.236.215:35003:   11
+group309571699@169.254.236.215:35004:   10
+group309571699@169.254.236.215:35000:   9
+group309571699@169.254.236.215:35001:   10
+
+group309571699@169.254.236.215:35000:   group309571699@169.254.236.215:35002:   9
+group309571699@169.254.236.215:35003:   11
+group309571699@169.254.236.215:35004:   10
+group309571699@169.254.236.215:35000:   9
+group309571699@169.254.236.215:35001:   10
+
+group309571699@169.254.236.215:35001:   group309571699@169.254.236.215:35002:   9
+group309571699@169.254.236.215:35003:   11
+group309571699@169.254.236.215:35004:   10
+group309571699@169.254.236.215:35000:   9
+group309571699@169.254.236.215:35001:   10
+
+
+##### group309571699	2020/05/15 10:44:15
+----- [group309571699@169.254.236.215:35001] Result:
+ Group id: group309571699
+Node id: group309571699@169.254.236.215:35001
+Recipes: {awabmbvg=[awabmbvg, Content--awabmbvg, group309571699], bgvtetbw=[bgvtetbw, Content--bgvtetbw, group309571699], cerrwbtd=[cerrwbtd, Content--cerrwbtd, group309571699], ecxsrjtc=[ecxsrjtc, Content--ecxsrjtc, group309571699], ffvackko=[ffvackko, Content--ffvackko, group309571699], hrbconft=[hrbconft, Content--hrbconft, group309571699], irxxbsaf=[irxxbsaf, Content--irxxbsaf, group309571699], jymquvjh=[jymquvjh, Content--jymquvjh, group309571699], mpbpwuxj=[mpbpwuxj, Content--mpbpwuxj, group309571699], rdk^cafl=[rdk^cafl, Content--rdk^cafl, group309571699], sttyoxds=[sttyoxds, Content--sttyoxds, group309571699], swvivfod=[swvivfod, Content--swvivfod, group309571699], thdljlwg=[thdljlwg, Content--thdljlwg, group309571699], ufglfxpf=[ufglfxpf, Content--ufglfxpf, group309571699], vhdhaarl=[vhdhaarl, Content--vhdhaarl, group309571699], wjowfbuy=[wjowfbuy, Content--wjowfbuy, group309571699], ycnyspei=[ycnyspei, Content--ycnyspei, group309571699], yicjylla=[yicjylla, Content--yicjylla, group309571699]}
+Log: RemoveOperation [recipeTitle=mjiikxjx, recipeTimestamp=group309571699@169.254.236.215:35003:   8, timestamp=group309571699@169.254.236.215:35003:   11]
+AddOperation [recipe=[ffvackko, Content--ffvackko, group309571699], timestamp=group309571699@169.254.236.215:35004:   8]
+RemoveOperation [recipeTitle=mjiikxjx, recipeTimestamp=group309571699@169.254.236.215:35003:   8, timestamp=group309571699@169.254.236.215:35004:   9]
+AddOperation [recipe=[rdk^cafl, Content--rdk^cafl, group309571699], timestamp=group309571699@169.254.236.215:35004:   10]
+AddOperation [recipe=[ecxsrjtc, Content--ecxsrjtc, group309571699], timestamp=group309571699@169.254.236.215:35000:   8]
+RemoveOperation [recipeTitle=mjiikxjx, recipeTimestamp=group309571699@169.254.236.215:35003:   8, timestamp=group309571699@169.254.236.215:35000:   9]
+AddOperation [recipe=[sttyoxds, Content--sttyoxds, group309571699], timestamp=group309571699@169.254.236.215:35001:   9]
+RemoveOperation [recipeTitle=mjiikxjx, recipeTimestamp=group309571699@169.254.236.215:35003:   8, timestamp=group309571699@169.254.236.215:35001:   10]
+
+Summary: group309571699@169.254.236.215:35002:   9
+group309571699@169.254.236.215:35003:   11
+group309571699@169.254.236.215:35004:   10
+group309571699@169.254.236.215:35000:   9
+group309571699@169.254.236.215:35001:   10
+
+Ack: group309571699@169.254.236.215:35002:   group309571699@169.254.236.215:35002:   9
+group309571699@169.254.236.215:35003:   10
+group309571699@169.254.236.215:35004:   7
+group309571699@169.254.236.215:35000:   7
+group309571699@169.254.236.215:35001:   8
+
+group309571699@169.254.236.215:35003:   group309571699@169.254.236.215:35002:   9
+group309571699@169.254.236.215:35003:   11
+group309571699@169.254.236.215:35004:   10
+group309571699@169.254.236.215:35000:   9
+group309571699@169.254.236.215:35001:   10
+
+group309571699@169.254.236.215:35004:   group309571699@169.254.236.215:35002:   9
+group309571699@169.254.236.215:35003:   11
+group309571699@169.254.236.215:35004:   10
+group309571699@169.254.236.215:35000:   9
+group309571699@169.254.236.215:35001:   10
+
+group309571699@169.254.236.215:35000:   group309571699@169.254.236.215:35002:   9
+group309571699@169.254.236.215:35003:   11
+group309571699@169.254.236.215:35004:   10
+group309571699@169.254.236.215:35000:   9
+group309571699@169.254.236.215:35001:   10
+
+group309571699@169.254.236.215:35001:   group309571699@169.254.236.215:35002:   9
+group309571699@169.254.236.215:35003:   11
+group309571699@169.254.236.215:35004:   10
+group309571699@169.254.236.215:35000:   9
+group309571699@169.254.236.215:35001:   10
+
+
+##### group309571699	2020/05/15 10:44:15
+----- [group309571699@169.254.236.215:35003] Result:
+ Group id: group309571699
+Node id: group309571699@169.254.236.215:35003
+Recipes: {awabmbvg=[awabmbvg, Content--awabmbvg, group309571699], bgvtetbw=[bgvtetbw, Content--bgvtetbw, group309571699], cerrwbtd=[cerrwbtd, Content--cerrwbtd, group309571699], ecxsrjtc=[ecxsrjtc, Content--ecxsrjtc, group309571699], ffvackko=[ffvackko, Content--ffvackko, group309571699], hrbconft=[hrbconft, Content--hrbconft, group309571699], irxxbsaf=[irxxbsaf, Content--irxxbsaf, group309571699], jymquvjh=[jymquvjh, Content--jymquvjh, group309571699], mpbpwuxj=[mpbpwuxj, Content--mpbpwuxj, group309571699], rdk^cafl=[rdk^cafl, Content--rdk^cafl, group309571699], sttyoxds=[sttyoxds, Content--sttyoxds, group309571699], swvivfod=[swvivfod, Content--swvivfod, group309571699], thdljlwg=[thdljlwg, Content--thdljlwg, group309571699], ufglfxpf=[ufglfxpf, Content--ufglfxpf, group309571699], vhdhaarl=[vhdhaarl, Content--vhdhaarl, group309571699], wjowfbuy=[wjowfbuy, Content--wjowfbuy, group309571699], ycnyspei=[ycnyspei, Content--ycnyspei, group309571699], yicjylla=[yicjylla, Content--yicjylla, group309571699]}
+Log: RemoveOperation [recipeTitle=mjiikxjx, recipeTimestamp=group309571699@169.254.236.215:35003:   8, timestamp=group309571699@169.254.236.215:35003:   11]
+AddOperation [recipe=[ffvackko, Content--ffvackko, group309571699], timestamp=group309571699@169.254.236.215:35004:   8]
+RemoveOperation [recipeTitle=mjiikxjx, recipeTimestamp=group309571699@169.254.236.215:35003:   8, timestamp=group309571699@169.254.236.215:35004:   9]
+AddOperation [recipe=[rdk^cafl, Content--rdk^cafl, group309571699], timestamp=group309571699@169.254.236.215:35004:   10]
+AddOperation [recipe=[ecxsrjtc, Content--ecxsrjtc, group309571699], timestamp=group309571699@169.254.236.215:35000:   8]
+RemoveOperation [recipeTitle=mjiikxjx, recipeTimestamp=group309571699@169.254.236.215:35003:   8, timestamp=group309571699@169.254.236.215:35000:   9]
+AddOperation [recipe=[sttyoxds, Content--sttyoxds, group309571699], timestamp=group309571699@169.254.236.215:35001:   9]
+RemoveOperation [recipeTitle=mjiikxjx, recipeTimestamp=group309571699@169.254.236.215:35003:   8, timestamp=group309571699@169.254.236.215:35001:   10]
+
+Summary: group309571699@169.254.236.215:35002:   9
+group309571699@169.254.236.215:35003:   11
+group309571699@169.254.236.215:35004:   10
+group309571699@169.254.236.215:35000:   9
+group309571699@169.254.236.215:35001:   10
+
+Ack: group309571699@169.254.236.215:35002:   group309571699@169.254.236.215:35002:   9
+group309571699@169.254.236.215:35003:   10
+group309571699@169.254.236.215:35004:   7
+group309571699@169.254.236.215:35000:   7
+group309571699@169.254.236.215:35001:   8
+
+group309571699@169.254.236.215:35003:   group309571699@169.254.236.215:35002:   9
+group309571699@169.254.236.215:35003:   11
+group309571699@169.254.236.215:35004:   10
+group309571699@169.254.236.215:35000:   9
+group309571699@169.254.236.215:35001:   10
+
+group309571699@169.254.236.215:35004:   group309571699@169.254.236.215:35002:   9
+group309571699@169.254.236.215:35003:   11
+group309571699@169.254.236.215:35004:   10
+group309571699@169.254.236.215:35000:   9
+group309571699@169.254.236.215:35001:   10
+
+group309571699@169.254.236.215:35000:   group309571699@169.254.236.215:35002:   9
+group309571699@169.254.236.215:35003:   11
+group309571699@169.254.236.215:35004:   10
+group309571699@169.254.236.215:35000:   9
+group309571699@169.254.236.215:35001:   10
+
+group309571699@169.254.236.215:35001:   group309571699@169.254.236.215:35002:   9
+group309571699@169.254.236.215:35003:   11
+group309571699@169.254.236.215:35004:   10
+group309571699@169.254.236.215:35000:   9
+group309571699@169.254.236.215:35001:   10
+
+================================================
+
+##### group309571699	2020/05/15 10:58:55
+----- [group309571699@169.254.236.215:35001] Result:
+ Group id: group309571699
+Node id: group309571699@169.254.236.215:35001
+Recipes: {aucuuila=[aucuuila, Content--aucuuila, group309571699], avmcmlup=[avmcmlup, Content--avmcmlup, group309571699], k^onijaj=[k^onijaj, Content--k^onijaj, group309571699], mtsaerme=[mtsaerme, Content--mtsaerme, group309571699], mxbmkyqk=[mxbmkyqk, Content--mxbmkyqk, group309571699], pnvbpmqt=[pnvbpmqt, Content--pnvbpmqt, group309571699], sypmtkpj=[sypmtkpj, Content--sypmtkpj, group309571699], uhvfxpkc=[uhvfxpkc, Content--uhvfxpkc, group309571699], vpibwilx=[vpibwilx, Content--vpibwilx, group309571699], wdmvmakd=[wdmvmakd, Content--wdmvmakd, group309571699], wjsiaiad=[wjsiaiad, Content--wjsiaiad, group309571699]}
+Log: 
+Summary: group309571699@169.254.236.215:35002:   5
+group309571699@169.254.236.215:35003:   6
+group309571699@169.254.236.215:35004:   2
+group309571699@169.254.236.215:35000:   4
+group309571699@169.254.236.215:35001:   6
+
+Ack: group309571699@169.254.236.215:35002:   group309571699@169.254.236.215:35002:   5
+group309571699@169.254.236.215:35003:   6
+group309571699@169.254.236.215:35004:   2
+group309571699@169.254.236.215:35000:   4
+group309571699@169.254.236.215:35001:   6
+
+group309571699@169.254.236.215:35003:   group309571699@169.254.236.215:35002:   5
+group309571699@169.254.236.215:35003:   6
+group309571699@169.254.236.215:35004:   2
+group309571699@169.254.236.215:35000:   4
+group309571699@169.254.236.215:35001:   6
+
+group309571699@169.254.236.215:35004:   group309571699@169.254.236.215:35002:   5
+group309571699@169.254.236.215:35003:   6
+group309571699@169.254.236.215:35004:   2
+group309571699@169.254.236.215:35000:   4
+group309571699@169.254.236.215:35001:   6
+
+group309571699@169.254.236.215:35000:   group309571699@169.254.236.215:35002:   5
+group309571699@169.254.236.215:35003:   6
+group309571699@169.254.236.215:35004:   2
+group309571699@169.254.236.215:35000:   4
+group309571699@169.254.236.215:35001:   6
+
+group309571699@169.254.236.215:35001:   group309571699@169.254.236.215:35002:   5
+group309571699@169.254.236.215:35003:   6
+group309571699@169.254.236.215:35004:   2
+group309571699@169.254.236.215:35000:   4
+group309571699@169.254.236.215:35001:   6
+
+
+##### group309571699	2020/05/15 10:58:55
+----- [group309571699@169.254.236.215:35000] Result:
+ Group id: group309571699
+Node id: group309571699@169.254.236.215:35000
+Recipes: {aucuuila=[aucuuila, Content--aucuuila, group309571699], avmcmlup=[avmcmlup, Content--avmcmlup, group309571699], k^onijaj=[k^onijaj, Content--k^onijaj, group309571699], mtsaerme=[mtsaerme, Content--mtsaerme, group309571699], mxbmkyqk=[mxbmkyqk, Content--mxbmkyqk, group309571699], pnvbpmqt=[pnvbpmqt, Content--pnvbpmqt, group309571699], sypmtkpj=[sypmtkpj, Content--sypmtkpj, group309571699], uhvfxpkc=[uhvfxpkc, Content--uhvfxpkc, group309571699], vpibwilx=[vpibwilx, Content--vpibwilx, group309571699], wdmvmakd=[wdmvmakd, Content--wdmvmakd, group309571699], wjsiaiad=[wjsiaiad, Content--wjsiaiad, group309571699]}
+Log: 
+Summary: group309571699@169.254.236.215:35002:   5
+group309571699@169.254.236.215:35003:   6
+group309571699@169.254.236.215:35004:   2
+group309571699@169.254.236.215:35000:   4
+group309571699@169.254.236.215:35001:   6
+
+Ack: group309571699@169.254.236.215:35002:   group309571699@169.254.236.215:35002:   5
+group309571699@169.254.236.215:35003:   6
+group309571699@169.254.236.215:35004:   2
+group309571699@169.254.236.215:35000:   4
+group309571699@169.254.236.215:35001:   6
+
+group309571699@169.254.236.215:35003:   group309571699@169.254.236.215:35002:   5
+group309571699@169.254.236.215:35003:   6
+group309571699@169.254.236.215:35004:   2
+group309571699@169.254.236.215:35000:   4
+group309571699@169.254.236.215:35001:   6
+
+group309571699@169.254.236.215:35004:   group309571699@169.254.236.215:35002:   5
+group309571699@169.254.236.215:35003:   6
+group309571699@169.254.236.215:35004:   2
+group309571699@169.254.236.215:35000:   4
+group309571699@169.254.236.215:35001:   6
+
+group309571699@169.254.236.215:35000:   group309571699@169.254.236.215:35002:   5
+group309571699@169.254.236.215:35003:   6
+group309571699@169.254.236.215:35004:   2
+group309571699@169.254.236.215:35000:   4
+group309571699@169.254.236.215:35001:   6
+
+group309571699@169.254.236.215:35001:   group309571699@169.254.236.215:35002:   5
+group309571699@169.254.236.215:35003:   6
+group309571699@169.254.236.215:35004:   2
+group309571699@169.254.236.215:35000:   4
+group309571699@169.254.236.215:35001:   6
+
+
+##### group309571699	2020/05/15 10:58:55
+----- [group309571699@169.254.236.215:35002] Result:
+ Group id: group309571699
+Node id: group309571699@169.254.236.215:35002
+Recipes: {aucuuila=[aucuuila, Content--aucuuila, group309571699], avmcmlup=[avmcmlup, Content--avmcmlup, group309571699], k^onijaj=[k^onijaj, Content--k^onijaj, group309571699], mtsaerme=[mtsaerme, Content--mtsaerme, group309571699], mxbmkyqk=[mxbmkyqk, Content--mxbmkyqk, group309571699], pnvbpmqt=[pnvbpmqt, Content--pnvbpmqt, group309571699], sypmtkpj=[sypmtkpj, Content--sypmtkpj, group309571699], uhvfxpkc=[uhvfxpkc, Content--uhvfxpkc, group309571699], vpibwilx=[vpibwilx, Content--vpibwilx, group309571699], wdmvmakd=[wdmvmakd, Content--wdmvmakd, group309571699], wjsiaiad=[wjsiaiad, Content--wjsiaiad, group309571699]}
+Log: 
+Summary: group309571699@169.254.236.215:35002:   5
+group309571699@169.254.236.215:35003:   6
+group309571699@169.254.236.215:35004:   2
+group309571699@169.254.236.215:35000:   4
+group309571699@169.254.236.215:35001:   6
+
+Ack: group309571699@169.254.236.215:35002:   group309571699@169.254.236.215:35002:   5
+group309571699@169.254.236.215:35003:   6
+group309571699@169.254.236.215:35004:   2
+group309571699@169.254.236.215:35000:   4
+group309571699@169.254.236.215:35001:   6
+
+group309571699@169.254.236.215:35003:   group309571699@169.254.236.215:35002:   5
+group309571699@169.254.236.215:35003:   6
+group309571699@169.254.236.215:35004:   2
+group309571699@169.254.236.215:35000:   4
+group309571699@169.254.236.215:35001:   6
+
+group309571699@169.254.236.215:35004:   group309571699@169.254.236.215:35002:   5
+group309571699@169.254.236.215:35003:   6
+group309571699@169.254.236.215:35004:   2
+group309571699@169.254.236.215:35000:   4
+group309571699@169.254.236.215:35001:   6
+
+group309571699@169.254.236.215:35000:   group309571699@169.254.236.215:35002:   5
+group309571699@169.254.236.215:35003:   6
+group309571699@169.254.236.215:35004:   2
+group309571699@169.254.236.215:35000:   4
+group309571699@169.254.236.215:35001:   6
+
+group309571699@169.254.236.215:35001:   group309571699@169.254.236.215:35002:   5
+group309571699@169.254.236.215:35003:   6
+group309571699@169.254.236.215:35004:   2
+group309571699@169.254.236.215:35000:   4
+group309571699@169.254.236.215:35001:   6
+
+================================================
+
+##### group309571699	2020/05/15 12:12:09
+----- [group309571699@127.0.1.1:35000] Result:
+ Group id: group309571699
+Node id: group309571699@127.0.1.1:35000
+Recipes: {fxsadwoh=[fxsadwoh, Content--fxsadwoh, group309571699], gowwvfja=[gowwvfja, Content--gowwvfja, group309571699], liwtilub=[liwtilub, Content--liwtilub, group309571699], tdxubvfe=[tdxubvfe, Content--tdxubvfe, group309571699], vcguhmtc=[vcguhmtc, Content--vcguhmtc, group309571699]}
+Log: AddOperation [recipe=[liwtilub, Content--liwtilub, group309571699], timestamp=group309571699@127.0.1.1:35000:   0]
+AddOperation [recipe=[oeksfcnx, Content--oeksfcnx, group309571699], timestamp=group309571699@127.0.1.1:35000:   1]
+AddOperation [recipe=[tdxubvfe, Content--tdxubvfe, group309571699], timestamp=group309571699@127.0.1.1:35000:   2]
+RemoveOperation [recipeTitle=oeksfcnx, recipeTimestamp=group309571699@127.0.1.1:35000:   1, timestamp=group309571699@127.0.1.1:35000:   3]
+AddOperation [recipe=[fxsadwoh, Content--fxsadwoh, group309571699], timestamp=group309571699@127.0.1.1:35000:   4]
+AddOperation [recipe=[suupbivi, Content--suupbivi, group309571699], timestamp=group309571699@127.0.1.1:35000:   5]
+AddOperation [recipe=[gowwvfja, Content--gowwvfja, group309571699], timestamp=group309571699@127.0.1.1:35000:   6]
+AddOperation [recipe=[vcguhmtc, Content--vcguhmtc, group309571699], timestamp=group309571699@127.0.1.1:35000:   7]
+RemoveOperation [recipeTitle=suupbivi, recipeTimestamp=group309571699@127.0.1.1:35000:   5, timestamp=group309571699@127.0.1.1:35000:   8]
+
+Summary: group309571699@127.0.1.1:35000:   8
+
+Ack: group309571699@127.0.1.1:35000:   group309571699@127.0.1.1:35000:   -1000
+
+
+##### group309571699	2020/05/15 12:12:09
+----- [group309571699@127.0.1.1:35000] Result:
+ Group id: group309571699
+Node id: group309571699@127.0.1.1:35000
+Recipes: {elknljdo=[elknljdo, Content--elknljdo, group309571699], kmvxaooy=[kmvxaooy, Content--kmvxaooy, group309571699], qqacvvnt=[qqacvvnt, Content--qqacvvnt, group309571699]}
+Log: AddOperation [recipe=[mjruvmnc, Content--mjruvmnc, group309571699], timestamp=group309571699@127.0.1.1:35000:   0]
+AddOperation [recipe=[ensapurh, Content--ensapurh, group309571699], timestamp=group309571699@127.0.1.1:35000:   1]
+RemoveOperation [recipeTitle=mjruvmnc, recipeTimestamp=group309571699@127.0.1.1:35000:   0, timestamp=group309571699@127.0.1.1:35000:   2]
+AddOperation [recipe=[kmvxaooy, Content--kmvxaooy, group309571699], timestamp=group309571699@127.0.1.1:35000:   3]
+RemoveOperation [recipeTitle=ensapurh, recipeTimestamp=group309571699@127.0.1.1:35000:   1, timestamp=group309571699@127.0.1.1:35000:   4]
+AddOperation [recipe=[elknljdo, Content--elknljdo, group309571699], timestamp=group309571699@127.0.1.1:35000:   5]
+AddOperation [recipe=[qqacvvnt, Content--qqacvvnt, group309571699], timestamp=group309571699@127.0.1.1:35000:   6]
+
+Summary: group309571699@127.0.1.1:35000:   6
+
+Ack: group309571699@127.0.1.1:35000:   group309571699@127.0.1.1:35000:   -1000
+
+================================================
+
+##### group309571699	2020/05/15 12:20:51
+----- [group309571699@127.0.1.1:35000] Result:
+ Group id: group309571699
+Node id: group309571699@127.0.1.1:35000
+Recipes: {fkdedgyd=[fkdedgyd, Content--fkdedgyd, group309571699], jejcutaf=[jejcutaf, Content--jejcutaf, group309571699], qymacufu=[qymacufu, Content--qymacufu, group309571699], sncigxxs=[sncigxxs, Content--sncigxxs, group309571699], tbcyqlto=[tbcyqlto, Content--tbcyqlto, group309571699]}
+Log: AddOperation [recipe=[sncigxxs, Content--sncigxxs, group309571699], timestamp=group309571699@127.0.1.1:35000:   0]
+AddOperation [recipe=[jejcutaf, Content--jejcutaf, group309571699], timestamp=group309571699@127.0.1.1:35000:   1]
+AddOperation [recipe=[qymacufu, Content--qymacufu, group309571699], timestamp=group309571699@127.0.1.1:35000:   2]
+AddOperation [recipe=[tbcyqlto, Content--tbcyqlto, group309571699], timestamp=group309571699@127.0.1.1:35000:   3]
+AddOperation [recipe=[fkdedgyd, Content--fkdedgyd, group309571699], timestamp=group309571699@127.0.1.1:35000:   4]
+
+Summary: group309571699@127.0.1.1:35000:   4
+
+Ack: group309571699@127.0.1.1:35000:   group309571699@127.0.1.1:35000:   -1000
+
+
+##### group309571699	2020/05/15 12:20:51
+----- [group309571699@127.0.1.1:35000] Result:
+ Group id: group309571699
+Node id: group309571699@127.0.1.1:35000
+Recipes: {}
+Log: 
+Summary: group309571699@127.0.1.1:35000:   -1000
+
+Ack: group309571699@127.0.1.1:35000:   group309571699@127.0.1.1:35000:   -1000
+
+================================================
+
+##### group309571699	2020/05/15 12:29:39
+----- [group309571699@127.0.1.1:35000] Result:
+ Group id: group309571699
+Node id: group309571699@127.0.1.1:35000
+Recipes: {cvgltidl=[cvgltidl, Content--cvgltidl, group309571699], hhsqrchs=[hhsqrchs, Content--hhsqrchs, group309571699], kqxebluq=[kqxebluq, Content--kqxebluq, group309571699], nncuruon=[nncuruon, Content--nncuruon, group309571699]}
+Log: AddOperation [recipe=[hhsqrchs, Content--hhsqrchs, group309571699], timestamp=group309571699@127.0.1.1:35000:   0]
+AddOperation [recipe=[nncuruon, Content--nncuruon, group309571699], timestamp=group309571699@127.0.1.1:35000:   1]
+AddOperation [recipe=[cvgltidl, Content--cvgltidl, group309571699], timestamp=group309571699@127.0.1.1:35000:   2]
+AddOperation [recipe=[kqxebluq, Content--kqxebluq, group309571699], timestamp=group309571699@127.0.1.1:35000:   3]
+
+Summary: group309571699@127.0.1.1:35000:   3
+
+Ack: group309571699@127.0.1.1:35000:   group309571699@127.0.1.1:35000:   -1000
+
+
+##### group309571699	2020/05/15 12:29:39
+----- [group309571699@127.0.1.1:35000] Result:
+ Group id: group309571699
+Node id: group309571699@127.0.1.1:35000
+Recipes: {fotbnerc=[fotbnerc, Content--fotbnerc, group309571699], nqoqjhyx=[nqoqjhyx, Content--nqoqjhyx, group309571699], yqwigfwh=[yqwigfwh, Content--yqwigfwh, group309571699]}
+Log: AddOperation [recipe=[yqwigfwh, Content--yqwigfwh, group309571699], timestamp=group309571699@127.0.1.1:35000:   0]
+AddOperation [recipe=[fotbnerc, Content--fotbnerc, group309571699], timestamp=group309571699@127.0.1.1:35000:   1]
+AddOperation [recipe=[nqoqjhyx, Content--nqoqjhyx, group309571699], timestamp=group309571699@127.0.1.1:35000:   2]
+
+Summary: group309571699@127.0.1.1:35000:   2
+
+Ack: group309571699@127.0.1.1:35000:   group309571699@127.0.1.1:35000:   -1000
+
+================================================
+
+##### group309571699	2020/05/15 12:47:25
+----- [group309571699@169.254.144.118:35000] Result:
+ Group id: group309571699
+Node id: group309571699@169.254.144.118:35000
+Recipes: {bdhumprk=[bdhumprk, Content--bdhumprk, group309571699], pffvfbmu=[pffvfbmu, Content--pffvfbmu, group309571699], qvlrpedt=[qvlrpedt, Content--qvlrpedt, group309571699], scnyfdxk=[scnyfdxk, Content--scnyfdxk, group309571699], tfssetuk=[tfssetuk, Content--tfssetuk, group309571699], uflodcwh=[uflodcwh, Content--uflodcwh, group309571699], yrfxcpmx=[yrfxcpmx, Content--yrfxcpmx, group309571699], ytpuxpek=[ytpuxpek, Content--ytpuxpek, group309571699]}
+Log: 
+Summary: group309571699@169.254.144.118:35000:   1
+group309571699@169.254.144.118:35001:   5
+group309571699@169.254.144.118:35002:   0
+group309571699@169.254.144.118:35003:   5
+group309571699@169.254.144.118:35004:   5
+
+Ack: group309571699@169.254.144.118:35000:   group309571699@169.254.144.118:35000:   1
+group309571699@169.254.144.118:35001:   5
+group309571699@169.254.144.118:35002:   0
+group309571699@169.254.144.118:35003:   5
+group309571699@169.254.144.118:35004:   5
+
+group309571699@169.254.144.118:35001:   group309571699@169.254.144.118:35000:   1
+group309571699@169.254.144.118:35001:   5
+group309571699@169.254.144.118:35002:   0
+group309571699@169.254.144.118:35003:   5
+group309571699@169.254.144.118:35004:   5
+
+group309571699@169.254.144.118:35002:   group309571699@169.254.144.118:35000:   1
+group309571699@169.254.144.118:35001:   5
+group309571699@169.254.144.118:35002:   0
+group309571699@169.254.144.118:35003:   5
+group309571699@169.254.144.118:35004:   5
+
+group309571699@169.254.144.118:35003:   group309571699@169.254.144.118:35000:   1
+group309571699@169.254.144.118:35001:   5
+group309571699@169.254.144.118:35002:   0
+group309571699@169.254.144.118:35003:   5
+group309571699@169.254.144.118:35004:   5
+
+group309571699@169.254.144.118:35004:   group309571699@169.254.144.118:35000:   1
+group309571699@169.254.144.118:35001:   5
+group309571699@169.254.144.118:35002:   0
+group309571699@169.254.144.118:35003:   5
+group309571699@169.254.144.118:35004:   5
+
+
+##### group309571699	2020/05/15 12:47:25
+----- [group309571699@169.254.144.118:35001] Result:
+ Group id: group309571699
+Node id: group309571699@169.254.144.118:35001
+Recipes: {bdhumprk=[bdhumprk, Content--bdhumprk, group309571699], pffvfbmu=[pffvfbmu, Content--pffvfbmu, group309571699], qvlrpedt=[qvlrpedt, Content--qvlrpedt, group309571699], scnyfdxk=[scnyfdxk, Content--scnyfdxk, group309571699], tfssetuk=[tfssetuk, Content--tfssetuk, group309571699], uflodcwh=[uflodcwh, Content--uflodcwh, group309571699], yrfxcpmx=[yrfxcpmx, Content--yrfxcpmx, group309571699], ytpuxpek=[ytpuxpek, Content--ytpuxpek, group309571699]}
+Log: 
+Summary: group309571699@169.254.144.118:35000:   1
+group309571699@169.254.144.118:35001:   5
+group309571699@169.254.144.118:35002:   0
+group309571699@169.254.144.118:35003:   5
+group309571699@169.254.144.118:35004:   5
+
+Ack: group309571699@169.254.144.118:35000:   group309571699@169.254.144.118:35000:   1
+group309571699@169.254.144.118:35001:   5
+group309571699@169.254.144.118:35002:   0
+group309571699@169.254.144.118:35003:   5
+group309571699@169.254.144.118:35004:   5
+
+group309571699@169.254.144.118:35001:   group309571699@169.254.144.118:35000:   1
+group309571699@169.254.144.118:35001:   5
+group309571699@169.254.144.118:35002:   0
+group309571699@169.254.144.118:35003:   5
+group309571699@169.254.144.118:35004:   5
+
+group309571699@169.254.144.118:35002:   group309571699@169.254.144.118:35000:   1
+group309571699@169.254.144.118:35001:   5
+group309571699@169.254.144.118:35002:   0
+group309571699@169.254.144.118:35003:   5
+group309571699@169.254.144.118:35004:   5
+
+group309571699@169.254.144.118:35003:   group309571699@169.254.144.118:35000:   1
+group309571699@169.254.144.118:35001:   5
+group309571699@169.254.144.118:35002:   0
+group309571699@169.254.144.118:35003:   5
+group309571699@169.254.144.118:35004:   5
+
+group309571699@169.254.144.118:35004:   group309571699@169.254.144.118:35000:   1
+group309571699@169.254.144.118:35001:   5
+group309571699@169.254.144.118:35002:   0
+group309571699@169.254.144.118:35003:   5
+group309571699@169.254.144.118:35004:   5
+
+
+##### group309571699	2020/05/15 12:47:25
+----- [group309571699@169.254.144.118:35002] Result:
+ Group id: group309571699
+Node id: group309571699@169.254.144.118:35002
+Recipes: {bdhumprk=[bdhumprk, Content--bdhumprk, group309571699], bxbivorf=[bxbivorf, Content--bxbivorf, group309571699], fnfdqxug=[fnfdqxug, Content--fnfdqxug, group309571699], pffvfbmu=[pffvfbmu, Content--pffvfbmu, group309571699], qvlrpedt=[qvlrpedt, Content--qvlrpedt, group309571699], rqqegipm=[rqqegipm, Content--rqqegipm, group309571699], scnyfdxk=[scnyfdxk, Content--scnyfdxk, group309571699], tfssetuk=[tfssetuk, Content--tfssetuk, group309571699], uflodcwh=[uflodcwh, Content--uflodcwh, group309571699], upqvcoam=[upqvcoam, Content--upqvcoam, group309571699], yrfxcpmx=[yrfxcpmx, Content--yrfxcpmx, group309571699], ytpuxpek=[ytpuxpek, Content--ytpuxpek, group309571699]}
+Log: 
+Summary: group309571699@169.254.144.118:35000:   1
+group309571699@169.254.144.118:35001:   5
+group309571699@169.254.144.118:35002:   0
+group309571699@169.254.144.118:35003:   5
+group309571699@169.254.144.118:35004:   5
+
+Ack: group309571699@169.254.144.118:35000:   group309571699@169.254.144.118:35000:   1
+group309571699@169.254.144.118:35001:   5
+group309571699@169.254.144.118:35002:   0
+group309571699@169.254.144.118:35003:   5
+group309571699@169.254.144.118:35004:   5
+
+group309571699@169.254.144.118:35001:   group309571699@169.254.144.118:35000:   1
+group309571699@169.254.144.118:35001:   5
+group309571699@169.254.144.118:35002:   0
+group309571699@169.254.144.118:35003:   5
+group309571699@169.254.144.118:35004:   5
+
+group309571699@169.254.144.118:35002:   group309571699@169.254.144.118:35000:   1
+group309571699@169.254.144.118:35001:   5
+group309571699@169.254.144.118:35002:   0
+group309571699@169.254.144.118:35003:   5
+group309571699@169.254.144.118:35004:   5
+
+group309571699@169.254.144.118:35003:   group309571699@169.254.144.118:35000:   1
+group309571699@169.254.144.118:35001:   5
+group309571699@169.254.144.118:35002:   0
+group309571699@169.254.144.118:35003:   5
+group309571699@169.254.144.118:35004:   5
+
+group309571699@169.254.144.118:35004:   group309571699@169.254.144.118:35000:   1
+group309571699@169.254.144.118:35001:   5
+group309571699@169.254.144.118:35002:   0
+group309571699@169.254.144.118:35003:   5
+group309571699@169.254.144.118:35004:   5
+
+================================================
+
+##### group309571699	2020/05/15 12:56:31
+----- [group309571699@169.254.144.118:35000] Result:
+ Group id: group309571699
+Node id: group309571699@169.254.144.118:35000
+Recipes: {diypwuio=[diypwuio, Content--diypwuio, group309571699], fpcacfmp=[fpcacfmp, Content--fpcacfmp, group309571699], gqchxfha=[gqchxfha, Content--gqchxfha, group309571699], hegwnvtc=[hegwnvtc, Content--hegwnvtc, group309571699], ijhoxcoh=[ijhoxcoh, Content--ijhoxcoh, group309571699], knapsmjf=[knapsmjf, Content--knapsmjf, group309571699], mqdybuok=[mqdybuok, Content--mqdybuok, group309571699], mrdcecqf=[mrdcecqf, Content--mrdcecqf, group309571699], osabykbf=[osabykbf, Content--osabykbf, group309571699], pkxqdqpo=[pkxqdqpo, Content--pkxqdqpo, group309571699], popvkoni=[popvkoni, Content--popvkoni, group309571699], rgaug^ty=[rgaug^ty, Content--rgaug^ty, group309571699], wkfochnd=[wkfochnd, Content--wkfochnd, group309571699], yaownjya=[yaownjya, Content--yaownjya, group309571699]}
+Log: 
+Summary: group309571699@169.254.144.118:35000:   3
+group309571699@169.254.144.118:35001:   6
+group309571699@169.254.144.118:35002:   7
+group309571699@169.254.144.118:35003:   4
+group309571699@169.254.144.118:35004:   2
+
+Ack: group309571699@169.254.144.118:35000:   group309571699@169.254.144.118:35000:   3
+group309571699@169.254.144.118:35001:   6
+group309571699@169.254.144.118:35002:   7
+group309571699@169.254.144.118:35003:   4
+group309571699@169.254.144.118:35004:   2
+
+group309571699@169.254.144.118:35001:   group309571699@169.254.144.118:35000:   3
+group309571699@169.254.144.118:35001:   6
+group309571699@169.254.144.118:35002:   7
+group309571699@169.254.144.118:35003:   4
+group309571699@169.254.144.118:35004:   2
+
+group309571699@169.254.144.118:35002:   group309571699@169.254.144.118:35000:   3
+group309571699@169.254.144.118:35001:   6
+group309571699@169.254.144.118:35002:   7
+group309571699@169.254.144.118:35003:   4
+group309571699@169.254.144.118:35004:   2
+
+group309571699@169.254.144.118:35003:   group309571699@169.254.144.118:35000:   3
+group309571699@169.254.144.118:35001:   6
+group309571699@169.254.144.118:35002:   7
+group309571699@169.254.144.118:35003:   4
+group309571699@169.254.144.118:35004:   2
+
+group309571699@169.254.144.118:35004:   group309571699@169.254.144.118:35000:   3
+group309571699@169.254.144.118:35001:   6
+group309571699@169.254.144.118:35002:   7
+group309571699@169.254.144.118:35003:   4
+group309571699@169.254.144.118:35004:   2
+
+
+##### group309571699	2020/05/15 12:56:31
+----- [group309571699@169.254.144.118:35001] Result:
+ Group id: group309571699
+Node id: group309571699@169.254.144.118:35001
+Recipes: {diypwuio=[diypwuio, Content--diypwuio, group309571699], fpcacfmp=[fpcacfmp, Content--fpcacfmp, group309571699], gqchxfha=[gqchxfha, Content--gqchxfha, group309571699], hegwnvtc=[hegwnvtc, Content--hegwnvtc, group309571699], iboqmdyd=[iboqmdyd, Content--iboqmdyd, group309571699], ijhoxcoh=[ijhoxcoh, Content--ijhoxcoh, group309571699], knapsmjf=[knapsmjf, Content--knapsmjf, group309571699], mqdybuok=[mqdybuok, Content--mqdybuok, group309571699], mrdcecqf=[mrdcecqf, Content--mrdcecqf, group309571699], osabykbf=[osabykbf, Content--osabykbf, group309571699], pkxqdqpo=[pkxqdqpo, Content--pkxqdqpo, group309571699], popvkoni=[popvkoni, Content--popvkoni, group309571699], rgaug^ty=[rgaug^ty, Content--rgaug^ty, group309571699], wkfochnd=[wkfochnd, Content--wkfochnd, group309571699], yaownjya=[yaownjya, Content--yaownjya, group309571699], ymbqntss=[ymbqntss, Content--ymbqntss, group309571699]}
+Log: 
+Summary: group309571699@169.254.144.118:35000:   3
+group309571699@169.254.144.118:35001:   6
+group309571699@169.254.144.118:35002:   7
+group309571699@169.254.144.118:35003:   4
+group309571699@169.254.144.118:35004:   2
+
+Ack: group309571699@169.254.144.118:35000:   group309571699@169.254.144.118:35000:   3
+group309571699@169.254.144.118:35001:   6
+group309571699@169.254.144.118:35002:   7
+group309571699@169.254.144.118:35003:   4
+group309571699@169.254.144.118:35004:   2
+
+group309571699@169.254.144.118:35001:   group309571699@169.254.144.118:35000:   3
+group309571699@169.254.144.118:35001:   6
+group309571699@169.254.144.118:35002:   7
+group309571699@169.254.144.118:35003:   4
+group309571699@169.254.144.118:35004:   2
+
+group309571699@169.254.144.118:35002:   group309571699@169.254.144.118:35000:   3
+group309571699@169.254.144.118:35001:   6
+group309571699@169.254.144.118:35002:   7
+group309571699@169.254.144.118:35003:   4
+group309571699@169.254.144.118:35004:   2
+
+group309571699@169.254.144.118:35003:   group309571699@169.254.144.118:35000:   3
+group309571699@169.254.144.118:35001:   6
+group309571699@169.254.144.118:35002:   7
+group309571699@169.254.144.118:35003:   4
+group309571699@169.254.144.118:35004:   2
+
+group309571699@169.254.144.118:35004:   group309571699@169.254.144.118:35000:   3
+group309571699@169.254.144.118:35001:   6
+group309571699@169.254.144.118:35002:   7
+group309571699@169.254.144.118:35003:   4
+group309571699@169.254.144.118:35004:   2
+
+================================================
+
+##### group309571699	2020/05/15 13:19:31
+----- [group309571699@169.254.144.118:35000] Result:
+ Group id: group309571699
+Node id: group309571699@169.254.144.118:35000
+Recipes: {faidxrph=[faidxrph, Content--faidxrph, group309571699], lkvdoegv=[lkvdoegv, Content--lkvdoegv, group309571699], lnbjcsxx=[lnbjcsxx, Content--lnbjcsxx, group309571699], mnovrpao=[mnovrpao, Content--mnovrpao, group309571699], nnvcijqb=[nnvcijqb, Content--nnvcijqb, group309571699], tdrraugi=[tdrraugi, Content--tdrraugi, group309571699], uqpbkqwk=[uqpbkqwk, Content--uqpbkqwk, group309571699], vtjbrqvc=[vtjbrqvc, Content--vtjbrqvc, group309571699], xcnakfoi=[xcnakfoi, Content--xcnakfoi, group309571699]}
+Log: 
+Summary: group309571699@169.254.144.118:35000:   1
+group309571699@169.254.144.118:35001:   2
+group309571699@169.254.144.118:35002:   4
+group309571699@169.254.144.118:35003:   3
+group309571699@169.254.144.118:35004:   3
+
+Ack: group309571699@169.254.144.118:35000:   group309571699@169.254.144.118:35000:   1
+group309571699@169.254.144.118:35001:   2
+group309571699@169.254.144.118:35002:   4
+group309571699@169.254.144.118:35003:   3
+group309571699@169.254.144.118:35004:   3
+
+group309571699@169.254.144.118:35001:   group309571699@169.254.144.118:35000:   1
+group309571699@169.254.144.118:35001:   2
+group309571699@169.254.144.118:35002:   4
+group309571699@169.254.144.118:35003:   3
+group309571699@169.254.144.118:35004:   3
+
+group309571699@169.254.144.118:35002:   group309571699@169.254.144.118:35000:   1
+group309571699@169.254.144.118:35001:   2
+group309571699@169.254.144.118:35002:   4
+group309571699@169.254.144.118:35003:   3
+group309571699@169.254.144.118:35004:   3
+
+group309571699@169.254.144.118:35003:   group309571699@169.254.144.118:35000:   1
+group309571699@169.254.144.118:35001:   2
+group309571699@169.254.144.118:35002:   4
+group309571699@169.254.144.118:35003:   3
+group309571699@169.254.144.118:35004:   3
+
+group309571699@169.254.144.118:35004:   group309571699@169.254.144.118:35000:   1
+group309571699@169.254.144.118:35001:   2
+group309571699@169.254.144.118:35002:   4
+group309571699@169.254.144.118:35003:   3
+group309571699@169.254.144.118:35004:   3
+
+
+##### group309571699	2020/05/15 13:19:31
+----- [group309571699@169.254.144.118:35001] Result:
+ Group id: group309571699
+Node id: group309571699@169.254.144.118:35001
+Recipes: {aqtuxiph=[aqtuxiph, Content--aqtuxiph, group309571699], faidxrph=[faidxrph, Content--faidxrph, group309571699], ilctehph=[ilctehph, Content--ilctehph, group309571699], mnovrpao=[mnovrpao, Content--mnovrpao, group309571699], nnvcijqb=[nnvcijqb, Content--nnvcijqb, group309571699], tdrraugi=[tdrraugi, Content--tdrraugi, group309571699], tskbatur=[tskbatur, Content--tskbatur, group309571699], uqpbkqwk=[uqpbkqwk, Content--uqpbkqwk, group309571699], vtjbrqvc=[vtjbrqvc, Content--vtjbrqvc, group309571699]}
+Log: 
+Summary: group309571699@169.254.144.118:35000:   1
+group309571699@169.254.144.118:35001:   2
+group309571699@169.254.144.118:35002:   4
+group309571699@169.254.144.118:35003:   3
+group309571699@169.254.144.118:35004:   3
+
+Ack: group309571699@169.254.144.118:35000:   group309571699@169.254.144.118:35000:   1
+group309571699@169.254.144.118:35001:   2
+group309571699@169.254.144.118:35002:   4
+group309571699@169.254.144.118:35003:   3
+group309571699@169.254.144.118:35004:   3
+
+group309571699@169.254.144.118:35001:   group309571699@169.254.144.118:35000:   1
+group309571699@169.254.144.118:35001:   2
+group309571699@169.254.144.118:35002:   4
+group309571699@169.254.144.118:35003:   3
+group309571699@169.254.144.118:35004:   3
+
+group309571699@169.254.144.118:35002:   group309571699@169.254.144.118:35000:   1
+group309571699@169.254.144.118:35001:   2
+group309571699@169.254.144.118:35002:   4
+group309571699@169.254.144.118:35003:   3
+group309571699@169.254.144.118:35004:   3
+
+group309571699@169.254.144.118:35003:   group309571699@169.254.144.118:35000:   1
+group309571699@169.254.144.118:35001:   2
+group309571699@169.254.144.118:35002:   4
+group309571699@169.254.144.118:35003:   3
+group309571699@169.254.144.118:35004:   3
+
+group309571699@169.254.144.118:35004:   group309571699@169.254.144.118:35000:   1
+group309571699@169.254.144.118:35001:   2
+group309571699@169.254.144.118:35002:   4
+group309571699@169.254.144.118:35003:   3
+group309571699@169.254.144.118:35004:   3
+
+================================================
+
+##### group309571699	2020/05/15 13:28:28
+----- [group309571699@169.254.144.118:35000] Result:
+ Group id: group309571699
+Node id: group309571699@169.254.144.118:35000
+Recipes: {asowkwkn=[asowkwkn, Content--asowkwkn, group309571699], eagkegrg=[eagkegrg, Content--eagkegrg, group309571699], gqwsmclo=[gqwsmclo, Content--gqwsmclo, group309571699], grroychv=[grroychv, Content--grroychv, group309571699], kcvfgett=[kcvfgett, Content--kcvfgett, group309571699], kxjdlagv=[kxjdlagv, Content--kxjdlagv, group309571699], lbcymbdi=[lbcymbdi, Content--lbcymbdi, group309571699], nbvxfwya=[nbvxfwya, Content--nbvxfwya, group309571699], oyqayxcc=[oyqayxcc, Content--oyqayxcc, group309571699], prnvrhpy=[prnvrhpy, Content--prnvrhpy, group309571699], slqbbmhh=[slqbbmhh, Content--slqbbmhh, group309571699], tlqmorvk=[tlqmorvk, Content--tlqmorvk, group309571699], uvoumagv=[uvoumagv, Content--uvoumagv, group309571699], wbfhgfur=[wbfhgfur, Content--wbfhgfur, group309571699]}
+Log: AddOperation [recipe=[oyqayxcc, Content--oyqayxcc, group309571699], timestamp=group309571699@169.254.144.118:35000:   3]
+AddOperation [recipe=[uvoumagv, Content--uvoumagv, group309571699], timestamp=group309571699@169.254.144.118:35003:   1]
+AddOperation [recipe=[gqwsmclo, Content--gqwsmclo, group309571699], timestamp=group309571699@169.254.144.118:35004:   6]
+AddOperation [recipe=[nbvxfwya, Content--nbvxfwya, group309571699], timestamp=group309571699@169.254.144.118:35004:   7]
+
+Summary: group309571699@169.254.144.118:35000:   3
+group309571699@169.254.144.118:35001:   2
+group309571699@169.254.144.118:35002:   2
+group309571699@169.254.144.118:35003:   1
+group309571699@169.254.144.118:35004:   7
+
+Ack: group309571699@169.254.144.118:35000:   group309571699@169.254.144.118:35000:   3
+group309571699@169.254.144.118:35001:   2
+group309571699@169.254.144.118:35002:   2
+group309571699@169.254.144.118:35003:   1
+group309571699@169.254.144.118:35004:   7
+
+group309571699@169.254.144.118:35001:   group309571699@169.254.144.118:35000:   2
+group309571699@169.254.144.118:35001:   2
+group309571699@169.254.144.118:35002:   2
+group309571699@169.254.144.118:35003:   0
+group309571699@169.254.144.118:35004:   5
+
+group309571699@169.254.144.118:35002:   group309571699@169.254.144.118:35000:   3
+group309571699@169.254.144.118:35001:   2
+group309571699@169.254.144.118:35002:   2
+group309571699@169.254.144.118:35003:   1
+group309571699@169.254.144.118:35004:   7
+
+group309571699@169.254.144.118:35003:   group309571699@169.254.144.118:35000:   3
+group309571699@169.254.144.118:35001:   2
+group309571699@169.254.144.118:35002:   2
+group309571699@169.254.144.118:35003:   1
+group309571699@169.254.144.118:35004:   7
+
+group309571699@169.254.144.118:35004:   group309571699@169.254.144.118:35000:   2
+group309571699@169.254.144.118:35001:   2
+group309571699@169.254.144.118:35002:   2
+group309571699@169.254.144.118:35003:   0
+group309571699@169.254.144.118:35004:   5
+
+
+##### group309571699	2020/05/15 13:28:28
+----- [group309571699@169.254.144.118:35002] Result:
+ Group id: group309571699
+Node id: group309571699@169.254.144.118:35002
+Recipes: {asowkwkn=[asowkwkn, Content--asowkwkn, group309571699], eagkegrg=[eagkegrg, Content--eagkegrg, group309571699], gqwsmclo=[gqwsmclo, Content--gqwsmclo, group309571699], grroychv=[grroychv, Content--grroychv, group309571699], kcvfgett=[kcvfgett, Content--kcvfgett, group309571699], kxjdlagv=[kxjdlagv, Content--kxjdlagv, group309571699], lbcymbdi=[lbcymbdi, Content--lbcymbdi, group309571699], nbvxfwya=[nbvxfwya, Content--nbvxfwya, group309571699], oyqayxcc=[oyqayxcc, Content--oyqayxcc, group309571699], prnvrhpy=[prnvrhpy, Content--prnvrhpy, group309571699], slqbbmhh=[slqbbmhh, Content--slqbbmhh, group309571699], tlqmorvk=[tlqmorvk, Content--tlqmorvk, group309571699], uvoumagv=[uvoumagv, Content--uvoumagv, group309571699], wbfhgfur=[wbfhgfur, Content--wbfhgfur, group309571699]}
+Log: AddOperation [recipe=[oyqayxcc, Content--oyqayxcc, group309571699], timestamp=group309571699@169.254.144.118:35000:   3]
+AddOperation [recipe=[uvoumagv, Content--uvoumagv, group309571699], timestamp=group309571699@169.254.144.118:35003:   1]
+AddOperation [recipe=[gqwsmclo, Content--gqwsmclo, group309571699], timestamp=group309571699@169.254.144.118:35004:   6]
+AddOperation [recipe=[nbvxfwya, Content--nbvxfwya, group309571699], timestamp=group309571699@169.254.144.118:35004:   7]
+
+Summary: group309571699@169.254.144.118:35000:   3
+group309571699@169.254.144.118:35001:   2
+group309571699@169.254.144.118:35002:   2
+group309571699@169.254.144.118:35003:   1
+group309571699@169.254.144.118:35004:   7
+
+Ack: group309571699@169.254.144.118:35000:   group309571699@169.254.144.118:35000:   3
+group309571699@169.254.144.118:35001:   2
+group309571699@169.254.144.118:35002:   2
+group309571699@169.254.144.118:35003:   1
+group309571699@169.254.144.118:35004:   7
+
+group309571699@169.254.144.118:35001:   group309571699@169.254.144.118:35000:   2
+group309571699@169.254.144.118:35001:   2
+group309571699@169.254.144.118:35002:   2
+group309571699@169.254.144.118:35003:   0
+group309571699@169.254.144.118:35004:   5
+
+group309571699@169.254.144.118:35002:   group309571699@169.254.144.118:35000:   3
+group309571699@169.254.144.118:35001:   2
+group309571699@169.254.144.118:35002:   2
+group309571699@169.254.144.118:35003:   1
+group309571699@169.254.144.118:35004:   7
+
+group309571699@169.254.144.118:35003:   group309571699@169.254.144.118:35000:   3
+group309571699@169.254.144.118:35001:   2
+group309571699@169.254.144.118:35002:   2
+group309571699@169.254.144.118:35003:   1
+group309571699@169.254.144.118:35004:   7
+
+group309571699@169.254.144.118:35004:   group309571699@169.254.144.118:35000:   2
+group309571699@169.254.144.118:35001:   2
+group309571699@169.254.144.118:35002:   2
+group309571699@169.254.144.118:35003:   0
+group309571699@169.254.144.118:35004:   5
+
+
+##### group309571699	2020/05/15 13:28:28
+----- [group309571699@169.254.144.118:35003] Result:
+ Group id: group309571699
+Node id: group309571699@169.254.144.118:35003
+Recipes: {asowkwkn=[asowkwkn, Content--asowkwkn, group309571699], eagkegrg=[eagkegrg, Content--eagkegrg, group309571699], gqwsmclo=[gqwsmclo, Content--gqwsmclo, group309571699], grroychv=[grroychv, Content--grroychv, group309571699], kcvfgett=[kcvfgett, Content--kcvfgett, group309571699], kxjdlagv=[kxjdlagv, Content--kxjdlagv, group309571699], lbcymbdi=[lbcymbdi, Content--lbcymbdi, group309571699], nbvxfwya=[nbvxfwya, Content--nbvxfwya, group309571699], oyqayxcc=[oyqayxcc, Content--oyqayxcc, group309571699], prnvrhpy=[prnvrhpy, Content--prnvrhpy, group309571699], slqbbmhh=[slqbbmhh, Content--slqbbmhh, group309571699], tlqmorvk=[tlqmorvk, Content--tlqmorvk, group309571699], uvoumagv=[uvoumagv, Content--uvoumagv, group309571699], wbfhgfur=[wbfhgfur, Content--wbfhgfur, group309571699]}
+Log: AddOperation [recipe=[oyqayxcc, Content--oyqayxcc, group309571699], timestamp=group309571699@169.254.144.118:35000:   3]
+AddOperation [recipe=[uvoumagv, Content--uvoumagv, group309571699], timestamp=group309571699@169.254.144.118:35003:   1]
+AddOperation [recipe=[gqwsmclo, Content--gqwsmclo, group309571699], timestamp=group309571699@169.254.144.118:35004:   6]
+AddOperation [recipe=[nbvxfwya, Content--nbvxfwya, group309571699], timestamp=group309571699@169.254.144.118:35004:   7]
+
+Summary: group309571699@169.254.144.118:35000:   3
+group309571699@169.254.144.118:35001:   2
+group309571699@169.254.144.118:35002:   2
+group309571699@169.254.144.118:35003:   1
+group309571699@169.254.144.118:35004:   7
+
+Ack: group309571699@169.254.144.118:35000:   group309571699@169.254.144.118:35000:   3
+group309571699@169.254.144.118:35001:   2
+group309571699@169.254.144.118:35002:   2
+group309571699@169.254.144.118:35003:   1
+group309571699@169.254.144.118:35004:   7
+
+group309571699@169.254.144.118:35001:   group309571699@169.254.144.118:35000:   2
+group309571699@169.254.144.118:35001:   2
+group309571699@169.254.144.118:35002:   2
+group309571699@169.254.144.118:35003:   0
+group309571699@169.254.144.118:35004:   5
+
+group309571699@169.254.144.118:35002:   group309571699@169.254.144.118:35000:   3
+group309571699@169.254.144.118:35001:   2
+group309571699@169.254.144.118:35002:   2
+group309571699@169.254.144.118:35003:   1
+group309571699@169.254.144.118:35004:   7
+
+group309571699@169.254.144.118:35003:   group309571699@169.254.144.118:35000:   3
+group309571699@169.254.144.118:35001:   2
+group309571699@169.254.144.118:35002:   2
+group309571699@169.254.144.118:35003:   1
+group309571699@169.254.144.118:35004:   7
+
+group309571699@169.254.144.118:35004:   group309571699@169.254.144.118:35000:   2
+group309571699@169.254.144.118:35001:   2
+group309571699@169.254.144.118:35002:   2
+group309571699@169.254.144.118:35003:   0
+group309571699@169.254.144.118:35004:   5
+
+================================================
+
+##### group309571699	2020/05/15 13:43:29
+----- [group309571699@169.254.144.118:35000] Result:
+ Group id: group309571699
+Node id: group309571699@169.254.144.118:35000
+Recipes: {dxomgosi=[dxomgosi, Content--dxomgosi, group309571699], icowggrq=[icowggrq, Content--icowggrq, group309571699], ijaljsho=[ijaljsho, Content--ijaljsho, group309571699], mseonuxo=[mseonuxo, Content--mseonuxo, group309571699], pwtvutek=[pwtvutek, Content--pwtvutek, group309571699], qhhwkicp=[qhhwkicp, Content--qhhwkicp, group309571699], rnacmvkw=[rnacmvkw, Content--rnacmvkw, group309571699], uctshxyo=[uctshxyo, Content--uctshxyo, group309571699], xgbrxomw=[xgbrxomw, Content--xgbrxomw, group309571699]}
+Log: AddOperation [recipe=[dxomgosi, Content--dxomgosi, group309571699], timestamp=group309571699@169.254.144.118:35000:   3]
+
+Summary: group309571699@169.254.144.118:35000:   3
+group309571699@169.254.144.118:35001:   6
+group309571699@169.254.144.118:35002:   3
+group309571699@169.254.144.118:35003:   6
+group309571699@169.254.144.118:35004:   1
+
+Ack: group309571699@169.254.144.118:35000:   group309571699@169.254.144.118:35000:   3
+group309571699@169.254.144.118:35001:   6
+group309571699@169.254.144.118:35002:   3
+group309571699@169.254.144.118:35003:   6
+group309571699@169.254.144.118:35004:   1
+
+group309571699@169.254.144.118:35001:   group309571699@169.254.144.118:35000:   3
+group309571699@169.254.144.118:35001:   6
+group309571699@169.254.144.118:35002:   3
+group309571699@169.254.144.118:35003:   6
+group309571699@169.254.144.118:35004:   1
+
+group309571699@169.254.144.118:35002:   group309571699@169.254.144.118:35000:   2
+group309571699@169.254.144.118:35001:   5
+group309571699@169.254.144.118:35002:   3
+group309571699@169.254.144.118:35003:   6
+group309571699@169.254.144.118:35004:   1
+
+group309571699@169.254.144.118:35003:   group309571699@169.254.144.118:35000:   3
+group309571699@169.254.144.118:35001:   6
+group309571699@169.254.144.118:35002:   3
+group309571699@169.254.144.118:35003:   6
+group309571699@169.254.144.118:35004:   1
+
+group309571699@169.254.144.118:35004:   group309571699@169.254.144.118:35000:   2
+group309571699@169.254.144.118:35001:   5
+group309571699@169.254.144.118:35002:   3
+group309571699@169.254.144.118:35003:   6
+group309571699@169.254.144.118:35004:   1
+
+
+##### group309571699	2020/05/15 13:43:29
+----- [group309571699@169.254.144.118:35001] Result:
+ Group id: group309571699
+Node id: group309571699@169.254.144.118:35001
+Recipes: {dxomgosi=[dxomgosi, Content--dxomgosi, group309571699], icowggrq=[icowggrq, Content--icowggrq, group309571699], ijaljsho=[ijaljsho, Content--ijaljsho, group309571699], mseonuxo=[mseonuxo, Content--mseonuxo, group309571699], pwtvutek=[pwtvutek, Content--pwtvutek, group309571699], qhhwkicp=[qhhwkicp, Content--qhhwkicp, group309571699], rnacmvkw=[rnacmvkw, Content--rnacmvkw, group309571699], uctshxyo=[uctshxyo, Content--uctshxyo, group309571699], xgbrxomw=[xgbrxomw, Content--xgbrxomw, group309571699]}
+Log: AddOperation [recipe=[dxomgosi, Content--dxomgosi, group309571699], timestamp=group309571699@169.254.144.118:35000:   3]
+RemoveOperation [recipeTitle=rfragibb, recipeTimestamp=group309571699@169.254.144.118:35002:   3, timestamp=group309571699@169.254.144.118:35001:   6]
+
+Summary: group309571699@169.254.144.118:35000:   3
+group309571699@169.254.144.118:35001:   6
+group309571699@169.254.144.118:35002:   3
+group309571699@169.254.144.118:35003:   6
+group309571699@169.254.144.118:35004:   1
+
+Ack: group309571699@169.254.144.118:35000:   group309571699@169.254.144.118:35000:   3
+group309571699@169.254.144.118:35001:   6
+group309571699@169.254.144.118:35002:   3
+group309571699@169.254.144.118:35003:   6
+group309571699@169.254.144.118:35004:   1
+
+group309571699@169.254.144.118:35001:   group309571699@169.254.144.118:35000:   3
+group309571699@169.254.144.118:35001:   6
+group309571699@169.254.144.118:35002:   3
+group309571699@169.254.144.118:35003:   6
+group309571699@169.254.144.118:35004:   1
+
+group309571699@169.254.144.118:35002:   group309571699@169.254.144.118:35000:   2
+group309571699@169.254.144.118:35001:   5
+group309571699@169.254.144.118:35002:   3
+group309571699@169.254.144.118:35003:   6
+group309571699@169.254.144.118:35004:   1
+
+group309571699@169.254.144.118:35003:   group309571699@169.254.144.118:35000:   3
+group309571699@169.254.144.118:35001:   6
+group309571699@169.254.144.118:35002:   3
+group309571699@169.254.144.118:35003:   6
+group309571699@169.254.144.118:35004:   1
+
+group309571699@169.254.144.118:35004:   group309571699@169.254.144.118:35000:   2
+group309571699@169.254.144.118:35001:   5
+group309571699@169.254.144.118:35002:   3
+group309571699@169.254.144.118:35003:   6
+group309571699@169.254.144.118:35004:   1
+
+================================================
+
+##### group309571699	2020/05/15 14:15:49
+----- [group309571699@127.0.1.1:35000] Result:
+ Group id: group309571699
+Node id: group309571699@127.0.1.1:35000
+Recipes: {emffyino=[emffyino, Content--emffyino, group309571699], ktnapabe=[ktnapabe, Content--ktnapabe, group309571699], lkfidsob=[lkfidsob, Content--lkfidsob, group309571699], nmhxlaur=[nmhxlaur, Content--nmhxlaur, group309571699]}
+Log: AddOperation [recipe=[nmhxlaur, Content--nmhxlaur, group309571699], timestamp=group309571699@127.0.1.1:35000:   0]
+AddOperation [recipe=[emffyino, Content--emffyino, group309571699], timestamp=group309571699@127.0.1.1:35000:   1]
+AddOperation [recipe=[ktnapabe, Content--ktnapabe, group309571699], timestamp=group309571699@127.0.1.1:35000:   2]
+AddOperation [recipe=[lkfidsob, Content--lkfidsob, group309571699], timestamp=group309571699@127.0.1.1:35000:   3]
+
+Summary: group309571699@127.0.1.1:35000:   3
+
+Ack: group309571699@127.0.1.1:35000:   group309571699@127.0.1.1:35000:   3
+
+
+##### group309571699	2020/05/15 14:15:49
+----- [group309571699@127.0.1.1:35000] Result:
+ Group id: group309571699
+Node id: group309571699@127.0.1.1:35000
+Recipes: {ctvmapct=[ctvmapct, Content--ctvmapct, group309571699], hrikugme=[hrikugme, Content--hrikugme, group309571699], tuwhcosp=[tuwhcosp, Content--tuwhcosp, group309571699]}
+Log: AddOperation [recipe=[tuwhcosp, Content--tuwhcosp, group309571699], timestamp=group309571699@127.0.1.1:35000:   0]
+AddOperation [recipe=[hrikugme, Content--hrikugme, group309571699], timestamp=group309571699@127.0.1.1:35000:   1]
+AddOperation [recipe=[ctvmapct, Content--ctvmapct, group309571699], timestamp=group309571699@127.0.1.1:35000:   2]
+
+Summary: group309571699@127.0.1.1:35000:   2
+
+Ack: group309571699@127.0.1.1:35000:   group309571699@127.0.1.1:35000:   2
+
+================================================
+
+##### group309571699	2020/05/18 09:03:13
+----- [group309571699@169.254.144.118:35000] Result:
+ Group id: group309571699
+Node id: group309571699@169.254.144.118:35000
+Recipes: {cxfrywgb=[cxfrywgb, Content--cxfrywgb, group309571699], fiioimax=[fiioimax, Content--fiioimax, group309571699], fttwkfbx=[fttwkfbx, Content--fttwkfbx, group309571699], geaaoqpw=[geaaoqpw, Content--geaaoqpw, group309571699], ghdnfxoq=[ghdnfxoq, Content--ghdnfxoq, group309571699], mcfjkjvl=[mcfjkjvl, Content--mcfjkjvl, group309571699], oemjtnqe=[oemjtnqe, Content--oemjtnqe, group309571699], pkdgmxjx=[pkdgmxjx, Content--pkdgmxjx, group309571699], pmyjmkej=[pmyjmkej, Content--pmyjmkej, group309571699], puinbglx=[puinbglx, Content--puinbglx, group309571699], tpolcqbo=[tpolcqbo, Content--tpolcqbo, group309571699], uopabucw=[uopabucw, Content--uopabucw, group309571699], voqdgrne=[voqdgrne, Content--voqdgrne, group309571699], xoamfaye=[xoamfaye, Content--xoamfaye, group309571699], ydjiqobv=[ydjiqobv, Content--ydjiqobv, group309571699]}
+Log: AddOperation [recipe=[fiioimax, Content--fiioimax, group309571699], timestamp=group309571699@169.254.144.118:35000:   3]
+AddOperation [recipe=[ghdnfxoq, Content--ghdnfxoq, group309571699], timestamp=group309571699@169.254.144.118:35003:   1]
+AddOperation [recipe=[geaaoqpw, Content--geaaoqpw, group309571699], timestamp=group309571699@169.254.144.118:35003:   2]
+AddOperation [recipe=[uopabucw, Content--uopabucw, group309571699], timestamp=group309571699@169.254.144.118:35004:   4]
+
+Summary: group309571699@169.254.144.118:35000:   3
+group309571699@169.254.144.118:35001:   3
+group309571699@169.254.144.118:35002:   2
+group309571699@169.254.144.118:35003:   2
+group309571699@169.254.144.118:35004:   4
+
+Ack: group309571699@169.254.144.118:35000:   group309571699@169.254.144.118:35000:   3
+group309571699@169.254.144.118:35001:   3
+group309571699@169.254.144.118:35002:   2
+group309571699@169.254.144.118:35003:   2
+group309571699@169.254.144.118:35004:   4
+
+group309571699@169.254.144.118:35001:   group309571699@169.254.144.118:35000:   2
+group309571699@169.254.144.118:35001:   3
+group309571699@169.254.144.118:35002:   2
+group309571699@169.254.144.118:35003:   0
+group309571699@169.254.144.118:35004:   3
+
+group309571699@169.254.144.118:35002:   group309571699@169.254.144.118:35000:   3
+group309571699@169.254.144.118:35001:   3
+group309571699@169.254.144.118:35002:   2
+group309571699@169.254.144.118:35003:   2
+group309571699@169.254.144.118:35004:   4
+
+group309571699@169.254.144.118:35003:   group309571699@169.254.144.118:35000:   3
+group309571699@169.254.144.118:35001:   3
+group309571699@169.254.144.118:35002:   2
+group309571699@169.254.144.118:35003:   2
+group309571699@169.254.144.118:35004:   4
+
+group309571699@169.254.144.118:35004:   group309571699@169.254.144.118:35000:   3
+group309571699@169.254.144.118:35001:   3
+group309571699@169.254.144.118:35002:   2
+group309571699@169.254.144.118:35003:   2
+group309571699@169.254.144.118:35004:   4
+
+
+##### group309571699	2020/05/18 09:03:13
+----- [group309571699@169.254.144.118:35002] Result:
+ Group id: group309571699
+Node id: group309571699@169.254.144.118:35002
+Recipes: {cxfrywgb=[cxfrywgb, Content--cxfrywgb, group309571699], fiioimax=[fiioimax, Content--fiioimax, group309571699], fttwkfbx=[fttwkfbx, Content--fttwkfbx, group309571699], geaaoqpw=[geaaoqpw, Content--geaaoqpw, group309571699], ghdnfxoq=[ghdnfxoq, Content--ghdnfxoq, group309571699], mcfjkjvl=[mcfjkjvl, Content--mcfjkjvl, group309571699], oemjtnqe=[oemjtnqe, Content--oemjtnqe, group309571699], pkdgmxjx=[pkdgmxjx, Content--pkdgmxjx, group309571699], pmyjmkej=[pmyjmkej, Content--pmyjmkej, group309571699], puinbglx=[puinbglx, Content--puinbglx, group309571699], tpolcqbo=[tpolcqbo, Content--tpolcqbo, group309571699], uopabucw=[uopabucw, Content--uopabucw, group309571699], voqdgrne=[voqdgrne, Content--voqdgrne, group309571699], xoamfaye=[xoamfaye, Content--xoamfaye, group309571699], ydjiqobv=[ydjiqobv, Content--ydjiqobv, group309571699]}
+Log: AddOperation [recipe=[fiioimax, Content--fiioimax, group309571699], timestamp=group309571699@169.254.144.118:35000:   3]
+AddOperation [recipe=[ghdnfxoq, Content--ghdnfxoq, group309571699], timestamp=group309571699@169.254.144.118:35003:   1]
+AddOperation [recipe=[geaaoqpw, Content--geaaoqpw, group309571699], timestamp=group309571699@169.254.144.118:35003:   2]
+AddOperation [recipe=[uopabucw, Content--uopabucw, group309571699], timestamp=group309571699@169.254.144.118:35004:   4]
+
+Summary: group309571699@169.254.144.118:35000:   3
+group309571699@169.254.144.118:35001:   3
+group309571699@169.254.144.118:35002:   2
+group309571699@169.254.144.118:35003:   2
+group309571699@169.254.144.118:35004:   4
+
+Ack: group309571699@169.254.144.118:35000:   group309571699@169.254.144.118:35000:   3
+group309571699@169.254.144.118:35001:   3
+group309571699@169.254.144.118:35002:   2
+group309571699@169.254.144.118:35003:   2
+group309571699@169.254.144.118:35004:   4
+
+group309571699@169.254.144.118:35001:   group309571699@169.254.144.118:35000:   2
+group309571699@169.254.144.118:35001:   3
+group309571699@169.254.144.118:35002:   2
+group309571699@169.254.144.118:35003:   0
+group309571699@169.254.144.118:35004:   3
+
+group309571699@169.254.144.118:35002:   group309571699@169.254.144.118:35000:   3
+group309571699@169.254.144.118:35001:   3
+group309571699@169.254.144.118:35002:   2
+group309571699@169.254.144.118:35003:   2
+group309571699@169.254.144.118:35004:   4
+
+group309571699@169.254.144.118:35003:   group309571699@169.254.144.118:35000:   3
+group309571699@169.254.144.118:35001:   3
+group309571699@169.254.144.118:35002:   2
+group309571699@169.254.144.118:35003:   2
+group309571699@169.254.144.118:35004:   4
+
+group309571699@169.254.144.118:35004:   group309571699@169.254.144.118:35000:   3
+group309571699@169.254.144.118:35001:   3
+group309571699@169.254.144.118:35002:   2
+group309571699@169.254.144.118:35003:   2
+group309571699@169.254.144.118:35004:   4
+
+
+##### group309571699	2020/05/18 09:03:13
+----- [group309571699@169.254.144.118:35003] Result:
+ Group id: group309571699
+Node id: group309571699@169.254.144.118:35003
+Recipes: {cxfrywgb=[cxfrywgb, Content--cxfrywgb, group309571699], fiioimax=[fiioimax, Content--fiioimax, group309571699], fttwkfbx=[fttwkfbx, Content--fttwkfbx, group309571699], geaaoqpw=[geaaoqpw, Content--geaaoqpw, group309571699], ghdnfxoq=[ghdnfxoq, Content--ghdnfxoq, group309571699], mcfjkjvl=[mcfjkjvl, Content--mcfjkjvl, group309571699], oemjtnqe=[oemjtnqe, Content--oemjtnqe, group309571699], pkdgmxjx=[pkdgmxjx, Content--pkdgmxjx, group309571699], pmyjmkej=[pmyjmkej, Content--pmyjmkej, group309571699], puinbglx=[puinbglx, Content--puinbglx, group309571699], tpolcqbo=[tpolcqbo, Content--tpolcqbo, group309571699], uopabucw=[uopabucw, Content--uopabucw, group309571699], voqdgrne=[voqdgrne, Content--voqdgrne, group309571699], xoamfaye=[xoamfaye, Content--xoamfaye, group309571699], ydjiqobv=[ydjiqobv, Content--ydjiqobv, group309571699]}
+Log: AddOperation [recipe=[fiioimax, Content--fiioimax, group309571699], timestamp=group309571699@169.254.144.118:35000:   3]
+AddOperation [recipe=[ghdnfxoq, Content--ghdnfxoq, group309571699], timestamp=group309571699@169.254.144.118:35003:   1]
+AddOperation [recipe=[geaaoqpw, Content--geaaoqpw, group309571699], timestamp=group309571699@169.254.144.118:35003:   2]
+AddOperation [recipe=[uopabucw, Content--uopabucw, group309571699], timestamp=group309571699@169.254.144.118:35004:   4]
+
+Summary: group309571699@169.254.144.118:35000:   3
+group309571699@169.254.144.118:35001:   3
+group309571699@169.254.144.118:35002:   2
+group309571699@169.254.144.118:35003:   2
+group309571699@169.254.144.118:35004:   4
+
+Ack: group309571699@169.254.144.118:35000:   group309571699@169.254.144.118:35000:   3
+group309571699@169.254.144.118:35001:   3
+group309571699@169.254.144.118:35002:   2
+group309571699@169.254.144.118:35003:   2
+group309571699@169.254.144.118:35004:   4
+
+group309571699@169.254.144.118:35001:   group309571699@169.254.144.118:35000:   2
+group309571699@169.254.144.118:35001:   3
+group309571699@169.254.144.118:35002:   2
+group309571699@169.254.144.118:35003:   0
+group309571699@169.254.144.118:35004:   3
+
+group309571699@169.254.144.118:35002:   group309571699@169.254.144.118:35000:   3
+group309571699@169.254.144.118:35001:   3
+group309571699@169.254.144.118:35002:   2
+group309571699@169.254.144.118:35003:   2
+group309571699@169.254.144.118:35004:   4
+
+group309571699@169.254.144.118:35003:   group309571699@169.254.144.118:35000:   3
+group309571699@169.254.144.118:35001:   3
+group309571699@169.254.144.118:35002:   2
+group309571699@169.254.144.118:35003:   2
+group309571699@169.254.144.118:35004:   4
+
+group309571699@169.254.144.118:35004:   group309571699@169.254.144.118:35000:   3
+group309571699@169.254.144.118:35001:   3
+group309571699@169.254.144.118:35002:   2
+group309571699@169.254.144.118:35003:   2
+group309571699@169.254.144.118:35004:   4
+
+================================================
+
+##### group309571699	2020/05/18 09:14:39
+----- [group309571699@169.254.144.118:35000] Result:
+ Group id: group309571699
+Node id: group309571699@169.254.144.118:35000
+Recipes: {cptvqewh=[cptvqewh, Content--cptvqewh, group309571699], hajeafej=[hajeafej, Content--hajeafej, group309571699], kfcaiwuq=[kfcaiwuq, Content--kfcaiwuq, group309571699], mbufegca=[mbufegca, Content--mbufegca, group309571699], oliouswt=[oliouswt, Content--oliouswt, group309571699], svawxgd^=[svawxgd^, Content--svawxgd^, group309571699], wqkisehr=[wqkisehr, Content--wqkisehr, group309571699], xnnbnsye=[xnnbnsye, Content--xnnbnsye, group309571699]}
+Log: AddOperation [recipe=[mcvlhwgv, Content--mcvlhwgv, group309571699], timestamp=group309571699@169.254.144.118:35004:   0]
+AddOperation [recipe=[ewkqisat, Content--ewkqisat, group309571699], timestamp=group309571699@169.254.144.118:35004:   1]
+AddOperation [recipe=[mbufegca, Content--mbufegca, group309571699], timestamp=group309571699@169.254.144.118:35004:   2]
+AddOperation [recipe=[wqkisehr, Content--wqkisehr, group309571699], timestamp=group309571699@169.254.144.118:35005:   1]
+AddOperation [recipe=[vhtalbcj, Content--vhtalbcj, group309571699], timestamp=group309571699@169.254.144.118:35007:   1]
+RemoveOperation [recipeTitle=gjqpsunu, recipeTimestamp=group309571699@169.254.144.118:35001:   1, timestamp=group309571699@169.254.144.118:35000:   0]
+RemoveOperation [recipeTitle=ewkqisat, recipeTimestamp=group309571699@169.254.144.118:35004:   1, timestamp=group309571699@169.254.144.118:35000:   1]
+AddOperation [recipe=[hajeafej, Content--hajeafej, group309571699], timestamp=group309571699@169.254.144.118:35000:   2]
+AddOperation [recipe=[cptvqewh, Content--cptvqewh, group309571699], timestamp=group309571699@169.254.144.118:35000:   3]
+AddOperation [recipe=[svawxgd^, Content--svawxgd^, group309571699], timestamp=group309571699@169.254.144.118:35000:   4]
+AddOperation [recipe=[gjqpsunu, Content--gjqpsunu, group309571699], timestamp=group309571699@169.254.144.118:35001:   1]
+AddOperation [recipe=[kfcaiwuq, Content--kfcaiwuq, group309571699], timestamp=group309571699@169.254.144.118:35001:   2]
+AddOperation [recipe=[xnnbnsye, Content--xnnbnsye, group309571699], timestamp=group309571699@169.254.144.118:35001:   3]
+AddOperation [recipe=[vgvlfpbn, Content--vgvlfpbn, group309571699], timestamp=group309571699@169.254.144.118:35002:   0]
+AddOperation [recipe=[rlpycfin, Content--rlpycfin, group309571699], timestamp=group309571699@169.254.144.118:35003:   0]
+AddOperation [recipe=[oliouswt, Content--oliouswt, group309571699], timestamp=group309571699@169.254.144.118:35003:   1]
+
+Summary: group309571699@169.254.144.118:35004:   2
+group309571699@169.254.144.118:35005:   1
+group309571699@169.254.144.118:35006:   -1000
+group309571699@169.254.144.118:35007:   4
+group309571699@169.254.144.118:35000:   4
+group309571699@169.254.144.118:35001:   4
+group309571699@169.254.144.118:35002:   2
+group309571699@169.254.144.118:35003:   1
+
+Ack: group309571699@169.254.144.118:35004:   group309571699@169.254.144.118:35004:   2
+group309571699@169.254.144.118:35005:   1
+group309571699@169.254.144.118:35006:   -1000
+group309571699@169.254.144.118:35007:   4
+group309571699@169.254.144.118:35000:   4
+group309571699@169.254.144.118:35001:   4
+group309571699@169.254.144.118:35002:   2
+group309571699@169.254.144.118:35003:   1
+
+group309571699@169.254.144.118:35005:   group309571699@169.254.144.118:35004:   2
+group309571699@169.254.144.118:35005:   1
+group309571699@169.254.144.118:35006:   -1000
+group309571699@169.254.144.118:35007:   4
+group309571699@169.254.144.118:35000:   4
+group309571699@169.254.144.118:35001:   4
+group309571699@169.254.144.118:35002:   2
+group309571699@169.254.144.118:35003:   1
+
+group309571699@169.254.144.118:35006:   group309571699@169.254.144.118:35004:   -1000
+group309571699@169.254.144.118:35005:   -1000
+group309571699@169.254.144.118:35006:   -1000
+group309571699@169.254.144.118:35007:   -1000
+group309571699@169.254.144.118:35000:   -1000
+group309571699@169.254.144.118:35001:   0
+group309571699@169.254.144.118:35002:   -1000
+group309571699@169.254.144.118:35003:   -1000
+
+group309571699@169.254.144.118:35007:   group309571699@169.254.144.118:35004:   2
+group309571699@169.254.144.118:35005:   1
+group309571699@169.254.144.118:35006:   -1000
+group309571699@169.254.144.118:35007:   4
+group309571699@169.254.144.118:35000:   4
+group309571699@169.254.144.118:35001:   4
+group309571699@169.254.144.118:35002:   2
+group309571699@169.254.144.118:35003:   1
+
+group309571699@169.254.144.118:35000:   group309571699@169.254.144.118:35004:   2
+group309571699@169.254.144.118:35005:   1
+group309571699@169.254.144.118:35006:   -1000
+group309571699@169.254.144.118:35007:   4
+group309571699@169.254.144.118:35000:   4
+group309571699@169.254.144.118:35001:   4
+group309571699@169.254.144.118:35002:   2
+group309571699@169.254.144.118:35003:   1
+
+group309571699@169.254.144.118:35001:   group309571699@169.254.144.118:35004:   2
+group309571699@169.254.144.118:35005:   1
+group309571699@169.254.144.118:35006:   -1000
+group309571699@169.254.144.118:35007:   4
+group309571699@169.254.144.118:35000:   4
+group309571699@169.254.144.118:35001:   4
+group309571699@169.254.144.118:35002:   2
+group309571699@169.254.144.118:35003:   1
+
+group309571699@169.254.144.118:35002:   group309571699@169.254.144.118:35004:   2
+group309571699@169.254.144.118:35005:   1
+group309571699@169.254.144.118:35006:   -1000
+group309571699@169.254.144.118:35007:   4
+group309571699@169.254.144.118:35000:   4
+group309571699@169.254.144.118:35001:   4
+group309571699@169.254.144.118:35002:   2
+group309571699@169.254.144.118:35003:   1
+
+group309571699@169.254.144.118:35003:   group309571699@169.254.144.118:35004:   2
+group309571699@169.254.144.118:35005:   1
+group309571699@169.254.144.118:35006:   -1000
+group309571699@169.254.144.118:35007:   4
+group309571699@169.254.144.118:35000:   4
+group309571699@169.254.144.118:35001:   4
+group309571699@169.254.144.118:35002:   2
+group309571699@169.254.144.118:35003:   1
+
+
+##### group309571699	2020/05/18 09:14:39
+----- [group309571699@169.254.144.118:35001] Result:
+ Group id: group309571699
+Node id: group309571699@169.254.144.118:35001
+Recipes: {cptvqewh=[cptvqewh, Content--cptvqewh, group309571699], hajeafej=[hajeafej, Content--hajeafej, group309571699], kfcaiwuq=[kfcaiwuq, Content--kfcaiwuq, group309571699], mbufegca=[mbufegca, Content--mbufegca, group309571699], oliouswt=[oliouswt, Content--oliouswt, group309571699], svawxgd^=[svawxgd^, Content--svawxgd^, group309571699], wqkisehr=[wqkisehr, Content--wqkisehr, group309571699], xnnbnsye=[xnnbnsye, Content--xnnbnsye, group309571699]}
+Log: AddOperation [recipe=[mcvlhwgv, Content--mcvlhwgv, group309571699], timestamp=group309571699@169.254.144.118:35004:   0]
+AddOperation [recipe=[ewkqisat, Content--ewkqisat, group309571699], timestamp=group309571699@169.254.144.118:35004:   1]
+AddOperation [recipe=[mbufegca, Content--mbufegca, group309571699], timestamp=group309571699@169.254.144.118:35004:   2]
+AddOperation [recipe=[wqkisehr, Content--wqkisehr, group309571699], timestamp=group309571699@169.254.144.118:35005:   1]
+AddOperation [recipe=[vhtalbcj, Content--vhtalbcj, group309571699], timestamp=group309571699@169.254.144.118:35007:   1]
+AddOperation [recipe=[hajeafej, Content--hajeafej, group309571699], timestamp=group309571699@169.254.144.118:35000:   2]
+AddOperation [recipe=[cptvqewh, Content--cptvqewh, group309571699], timestamp=group309571699@169.254.144.118:35000:   3]
+AddOperation [recipe=[svawxgd^, Content--svawxgd^, group309571699], timestamp=group309571699@169.254.144.118:35000:   4]
+AddOperation [recipe=[gjqpsunu, Content--gjqpsunu, group309571699], timestamp=group309571699@169.254.144.118:35001:   1]
+AddOperation [recipe=[kfcaiwuq, Content--kfcaiwuq, group309571699], timestamp=group309571699@169.254.144.118:35001:   2]
+AddOperation [recipe=[xnnbnsye, Content--xnnbnsye, group309571699], timestamp=group309571699@169.254.144.118:35001:   3]
+RemoveOperation [recipeTitle=rlpycfin, recipeTimestamp=group309571699@169.254.144.118:35003:   0, timestamp=group309571699@169.254.144.118:35001:   4]
+AddOperation [recipe=[vgvlfpbn, Content--vgvlfpbn, group309571699], timestamp=group309571699@169.254.144.118:35002:   0]
+AddOperation [recipe=[rlpycfin, Content--rlpycfin, group309571699], timestamp=group309571699@169.254.144.118:35003:   0]
+AddOperation [recipe=[oliouswt, Content--oliouswt, group309571699], timestamp=group309571699@169.254.144.118:35003:   1]
+
+Summary: group309571699@169.254.144.118:35004:   2
+group309571699@169.254.144.118:35005:   1
+group309571699@169.254.144.118:35006:   -1000
+group309571699@169.254.144.118:35007:   4
+group309571699@169.254.144.118:35000:   4
+group309571699@169.254.144.118:35001:   4
+group309571699@169.254.144.118:35002:   2
+group309571699@169.254.144.118:35003:   1
+
+Ack: group309571699@169.254.144.118:35004:   group309571699@169.254.144.118:35004:   2
+group309571699@169.254.144.118:35005:   1
+group309571699@169.254.144.118:35006:   -1000
+group309571699@169.254.144.118:35007:   4
+group309571699@169.254.144.118:35000:   4
+group309571699@169.254.144.118:35001:   4
+group309571699@169.254.144.118:35002:   2
+group309571699@169.254.144.118:35003:   1
+
+group309571699@169.254.144.118:35005:   group309571699@169.254.144.118:35004:   2
+group309571699@169.254.144.118:35005:   1
+group309571699@169.254.144.118:35006:   -1000
+group309571699@169.254.144.118:35007:   4
+group309571699@169.254.144.118:35000:   4
+group309571699@169.254.144.118:35001:   4
+group309571699@169.254.144.118:35002:   2
+group309571699@169.254.144.118:35003:   1
+
+group309571699@169.254.144.118:35006:   group309571699@169.254.144.118:35004:   -1000
+group309571699@169.254.144.118:35005:   -1000
+group309571699@169.254.144.118:35006:   -1000
+group309571699@169.254.144.118:35007:   -1000
+group309571699@169.254.144.118:35000:   -1000
+group309571699@169.254.144.118:35001:   0
+group309571699@169.254.144.118:35002:   -1000
+group309571699@169.254.144.118:35003:   -1000
+
+group309571699@169.254.144.118:35007:   group309571699@169.254.144.118:35004:   2
+group309571699@169.254.144.118:35005:   1
+group309571699@169.254.144.118:35006:   -1000
+group309571699@169.254.144.118:35007:   4
+group309571699@169.254.144.118:35000:   4
+group309571699@169.254.144.118:35001:   4
+group309571699@169.254.144.118:35002:   2
+group309571699@169.254.144.118:35003:   1
+
+group309571699@169.254.144.118:35000:   group309571699@169.254.144.118:35004:   2
+group309571699@169.254.144.118:35005:   1
+group309571699@169.254.144.118:35006:   -1000
+group309571699@169.254.144.118:35007:   4
+group309571699@169.254.144.118:35000:   4
+group309571699@169.254.144.118:35001:   4
+group309571699@169.254.144.118:35002:   2
+group309571699@169.254.144.118:35003:   1
+
+group309571699@169.254.144.118:35001:   group309571699@169.254.144.118:35004:   2
+group309571699@169.254.144.118:35005:   1
+group309571699@169.254.144.118:35006:   -1000
+group309571699@169.254.144.118:35007:   4
+group309571699@169.254.144.118:35000:   4
+group309571699@169.254.144.118:35001:   4
+group309571699@169.254.144.118:35002:   2
+group309571699@169.254.144.118:35003:   1
+
+group309571699@169.254.144.118:35002:   group309571699@169.254.144.118:35004:   2
+group309571699@169.254.144.118:35005:   1
+group309571699@169.254.144.118:35006:   -1000
+group309571699@169.254.144.118:35007:   4
+group309571699@169.254.144.118:35000:   4
+group309571699@169.254.144.118:35001:   4
+group309571699@169.254.144.118:35002:   2
+group309571699@169.254.144.118:35003:   1
+
+group309571699@169.254.144.118:35003:   group309571699@169.254.144.118:35004:   2
+group309571699@169.254.144.118:35005:   1
+group309571699@169.254.144.118:35006:   -1000
+group309571699@169.254.144.118:35007:   4
+group309571699@169.254.144.118:35000:   4
+group309571699@169.254.144.118:35001:   4
+group309571699@169.254.144.118:35002:   2
+group309571699@169.254.144.118:35003:   1
+
+================================================
+
+##### group309571699	2020/05/18 09:23:13
+----- [group309571699@169.254.144.118:35001] Result:
+ Group id: group309571699
+Node id: group309571699@169.254.144.118:35001
+Recipes: {bdrecnfx=[bdrecnfx, Content--bdrecnfx, group309571699], becymbya=[becymbya, Content--becymbya, group309571699], bosrevja=[bosrevja, Content--bosrevja, group309571699], iosbupox=[iosbupox, Content--iosbupox, group309571699], kjjeulkj=[kjjeulkj, Content--kjjeulkj, group309571699], ofhfkxxc=[ofhfkxxc, Content--ofhfkxxc, group309571699], pmjlumjb=[pmjlumjb, Content--pmjlumjb, group309571699], tyxxtlda=[tyxxtlda, Content--tyxxtlda, group309571699], uuywuiau=[uuywuiau, Content--uuywuiau, group309571699], vbaqwbod=[vbaqwbod, Content--vbaqwbod, group309571699], xxxsenci=[xxxsenci, Content--xxxsenci, group309571699]}
+Log: AddOperation [recipe=[vbaqwbod, Content--vbaqwbod, group309571699], timestamp=group309571699@169.254.144.118:35004:   3]
+AddOperation [recipe=[dycaapqh, Content--dycaapqh, group309571699], timestamp=group309571699@169.254.144.118:35006:   1]
+AddOperation [recipe=[becymbya, Content--becymbya, group309571699], timestamp=group309571699@169.254.144.118:35006:   2]
+AddOperation [recipe=[iosbupox, Content--iosbupox, group309571699], timestamp=group309571699@169.254.144.118:35006:   3]
+AddOperation [recipe=[uuywuiau, Content--uuywuiau, group309571699], timestamp=group309571699@169.254.144.118:35007:   2]
+AddOperation [recipe=[kjjeulkj, Content--kjjeulkj, group309571699], timestamp=group309571699@169.254.144.118:35002:   5]
+
+Summary: group309571699@169.254.144.118:35004:   3
+group309571699@169.254.144.118:35005:   0
+group309571699@169.254.144.118:35006:   3
+group309571699@169.254.144.118:35007:   2
+group309571699@169.254.144.118:35000:   2
+group309571699@169.254.144.118:35001:   3
+group309571699@169.254.144.118:35002:   6
+group309571699@169.254.144.118:35003:   1
+
+Ack: group309571699@169.254.144.118:35004:   group309571699@169.254.144.118:35004:   3
+group309571699@169.254.144.118:35005:   0
+group309571699@169.254.144.118:35006:   3
+group309571699@169.254.144.118:35007:   2
+group309571699@169.254.144.118:35000:   2
+group309571699@169.254.144.118:35001:   3
+group309571699@169.254.144.118:35002:   6
+group309571699@169.254.144.118:35003:   1
+
+group309571699@169.254.144.118:35005:   group309571699@169.254.144.118:35004:   3
+group309571699@169.254.144.118:35005:   0
+group309571699@169.254.144.118:35006:   3
+group309571699@169.254.144.118:35007:   2
+group309571699@169.254.144.118:35000:   2
+group309571699@169.254.144.118:35001:   3
+group309571699@169.254.144.118:35002:   6
+group309571699@169.254.144.118:35003:   1
+
+group309571699@169.254.144.118:35006:   group309571699@169.254.144.118:35004:   3
+group309571699@169.254.144.118:35005:   0
+group309571699@169.254.144.118:35006:   3
+group309571699@169.254.144.118:35007:   2
+group309571699@169.254.144.118:35000:   2
+group309571699@169.254.144.118:35001:   3
+group309571699@169.254.144.118:35002:   6
+group309571699@169.254.144.118:35003:   1
+
+group309571699@169.254.144.118:35007:   group309571699@169.254.144.118:35004:   0
+group309571699@169.254.144.118:35005:   0
+group309571699@169.254.144.118:35006:   1
+group309571699@169.254.144.118:35007:   2
+group309571699@169.254.144.118:35000:   2
+group309571699@169.254.144.118:35001:   3
+group309571699@169.254.144.118:35002:   5
+group309571699@169.254.144.118:35003:   1
+
+group309571699@169.254.144.118:35000:   group309571699@169.254.144.118:35004:   0
+group309571699@169.254.144.118:35005:   -1000
+group309571699@169.254.144.118:35006:   0
+group309571699@169.254.144.118:35007:   1
+group309571699@169.254.144.118:35000:   2
+group309571699@169.254.144.118:35001:   3
+group309571699@169.254.144.118:35002:   4
+group309571699@169.254.144.118:35003:   1
+
+group309571699@169.254.144.118:35001:   group309571699@169.254.144.118:35004:   3
+group309571699@169.254.144.118:35005:   0
+group309571699@169.254.144.118:35006:   3
+group309571699@169.254.144.118:35007:   2
+group309571699@169.254.144.118:35000:   2
+group309571699@169.254.144.118:35001:   3
+group309571699@169.254.144.118:35002:   6
+group309571699@169.254.144.118:35003:   1
+
+group309571699@169.254.144.118:35002:   group309571699@169.254.144.118:35004:   3
+group309571699@169.254.144.118:35005:   0
+group309571699@169.254.144.118:35006:   3
+group309571699@169.254.144.118:35007:   2
+group309571699@169.254.144.118:35000:   2
+group309571699@169.254.144.118:35001:   3
+group309571699@169.254.144.118:35002:   6
+group309571699@169.254.144.118:35003:   1
+
+group309571699@169.254.144.118:35003:   group309571699@169.254.144.118:35004:   2
+group309571699@169.254.144.118:35005:   0
+group309571699@169.254.144.118:35006:   2
+group309571699@169.254.144.118:35007:   2
+group309571699@169.254.144.118:35000:   2
+group309571699@169.254.144.118:35001:   3
+group309571699@169.254.144.118:35002:   6
+group309571699@169.254.144.118:35003:   1
+
+
+##### group309571699	2020/05/18 09:23:13
+----- [group309571699@169.254.144.118:35002] Result:
+ Group id: group309571699
+Node id: group309571699@169.254.144.118:35002
+Recipes: {bdrecnfx=[bdrecnfx, Content--bdrecnfx, group309571699], becymbya=[becymbya, Content--becymbya, group309571699], iosbupox=[iosbupox, Content--iosbupox, group309571699], kjjeulkj=[kjjeulkj, Content--kjjeulkj, group309571699], kybhhfsm=[kybhhfsm, Content--kybhhfsm, group309571699], ofhfkxxc=[ofhfkxxc, Content--ofhfkxxc, group309571699], pmjlumjb=[pmjlumjb, Content--pmjlumjb, group309571699], tyxxtlda=[tyxxtlda, Content--tyxxtlda, group309571699], uuywuiau=[uuywuiau, Content--uuywuiau, group309571699], vbaqwbod=[vbaqwbod, Content--vbaqwbod, group309571699], xxxsenci=[xxxsenci, Content--xxxsenci, group309571699]}
+Log: AddOperation [recipe=[vbaqwbod, Content--vbaqwbod, group309571699], timestamp=group309571699@169.254.144.118:35004:   3]
+AddOperation [recipe=[dycaapqh, Content--dycaapqh, group309571699], timestamp=group309571699@169.254.144.118:35006:   1]
+AddOperation [recipe=[becymbya, Content--becymbya, group309571699], timestamp=group309571699@169.254.144.118:35006:   2]
+AddOperation [recipe=[iosbupox, Content--iosbupox, group309571699], timestamp=group309571699@169.254.144.118:35006:   3]
+AddOperation [recipe=[uuywuiau, Content--uuywuiau, group309571699], timestamp=group309571699@169.254.144.118:35007:   2]
+AddOperation [recipe=[kjjeulkj, Content--kjjeulkj, group309571699], timestamp=group309571699@169.254.144.118:35002:   5]
+RemoveOperation [recipeTitle=coatlfad, recipeTimestamp=group309571699@169.254.144.118:35000:   1, timestamp=group309571699@169.254.144.118:35002:   6]
+
+Summary: group309571699@169.254.144.118:35004:   3
+group309571699@169.254.144.118:35005:   0
+group309571699@169.254.144.118:35006:   3
+group309571699@169.254.144.118:35007:   2
+group309571699@169.254.144.118:35000:   2
+group309571699@169.254.144.118:35001:   3
+group309571699@169.254.144.118:35002:   6
+group309571699@169.254.144.118:35003:   1
+
+Ack: group309571699@169.254.144.118:35004:   group309571699@169.254.144.118:35004:   3
+group309571699@169.254.144.118:35005:   0
+group309571699@169.254.144.118:35006:   3
+group309571699@169.254.144.118:35007:   2
+group309571699@169.254.144.118:35000:   2
+group309571699@169.254.144.118:35001:   3
+group309571699@169.254.144.118:35002:   6
+group309571699@169.254.144.118:35003:   1
+
+group309571699@169.254.144.118:35005:   group309571699@169.254.144.118:35004:   3
+group309571699@169.254.144.118:35005:   0
+group309571699@169.254.144.118:35006:   3
+group309571699@169.254.144.118:35007:   2
+group309571699@169.254.144.118:35000:   2
+group309571699@169.254.144.118:35001:   3
+group309571699@169.254.144.118:35002:   6
+group309571699@169.254.144.118:35003:   1
+
+group309571699@169.254.144.118:35006:   group309571699@169.254.144.118:35004:   3
+group309571699@169.254.144.118:35005:   0
+group309571699@169.254.144.118:35006:   3
+group309571699@169.254.144.118:35007:   2
+group309571699@169.254.144.118:35000:   2
+group309571699@169.254.144.118:35001:   3
+group309571699@169.254.144.118:35002:   6
+group309571699@169.254.144.118:35003:   1
+
+group309571699@169.254.144.118:35007:   group309571699@169.254.144.118:35004:   0
+group309571699@169.254.144.118:35005:   0
+group309571699@169.254.144.118:35006:   1
+group309571699@169.254.144.118:35007:   2
+group309571699@169.254.144.118:35000:   2
+group309571699@169.254.144.118:35001:   3
+group309571699@169.254.144.118:35002:   5
+group309571699@169.254.144.118:35003:   1
+
+group309571699@169.254.144.118:35000:   group309571699@169.254.144.118:35004:   0
+group309571699@169.254.144.118:35005:   -1000
+group309571699@169.254.144.118:35006:   0
+group309571699@169.254.144.118:35007:   1
+group309571699@169.254.144.118:35000:   2
+group309571699@169.254.144.118:35001:   3
+group309571699@169.254.144.118:35002:   4
+group309571699@169.254.144.118:35003:   1
+
+group309571699@169.254.144.118:35001:   group309571699@169.254.144.118:35004:   3
+group309571699@169.254.144.118:35005:   0
+group309571699@169.254.144.118:35006:   3
+group309571699@169.254.144.118:35007:   2
+group309571699@169.254.144.118:35000:   2
+group309571699@169.254.144.118:35001:   3
+group309571699@169.254.144.118:35002:   6
+group309571699@169.254.144.118:35003:   1
+
+group309571699@169.254.144.118:35002:   group309571699@169.254.144.118:35004:   3
+group309571699@169.254.144.118:35005:   0
+group309571699@169.254.144.118:35006:   3
+group309571699@169.254.144.118:35007:   2
+group309571699@169.254.144.118:35000:   2
+group309571699@169.254.144.118:35001:   3
+group309571699@169.254.144.118:35002:   6
+group309571699@169.254.144.118:35003:   1
+
+group309571699@169.254.144.118:35003:   group309571699@169.254.144.118:35004:   2
+group309571699@169.254.144.118:35005:   0
+group309571699@169.254.144.118:35006:   2
+group309571699@169.254.144.118:35007:   2
+group309571699@169.254.144.118:35000:   2
+group309571699@169.254.144.118:35001:   3
+group309571699@169.254.144.118:35002:   6
+group309571699@169.254.144.118:35003:   1
+
+================================================
+
+##### group309571699	2021/01/20 10:10:19
+----- [group309571699@192.168.0.45:35001] Result:
+ Group id: group309571699
+Node id: group309571699@192.168.0.45:35001
+Recipes: {aafydmff=[aafydmff, Content--aafydmff, group309571699], afkfmcqg=[afkfmcqg, Content--afkfmcqg, group309571699], codsqqbc=[codsqqbc, Content--codsqqbc, group309571699], diaytcga=[diaytcga, Content--diaytcga, group309571699], dxwg^wwd=[dxwg^wwd, Content--dxwg^wwd, group309571699], eqkycbon=[eqkycbon, Content--eqkycbon, group309571699], fxaoywbp=[fxaoywbp, Content--fxaoywbp, group309571699], hohoeuht=[hohoeuht, Content--hohoeuht, group309571699], iqqsdjfn=[iqqsdjfn, Content--iqqsdjfn, group309571699], itwbnkql=[itwbnkql, Content--itwbnkql, group309571699], jplmxuoi=[jplmxuoi, Content--jplmxuoi, group309571699], jyqasgss=[jyqasgss, Content--jyqasgss, group309571699], kmdmktua=[kmdmktua, Content--kmdmktua, group309571699], krwqtpik=[krwqtpik, Content--krwqtpik, group309571699], lvtdokhs=[lvtdokhs, Content--lvtdokhs, group309571699], mvfklprm=[mvfklprm, Content--mvfklprm, group309571699], niejkgud=[niejkgud, Content--niejkgud, group309571699], nlcqxvph=[nlcqxvph, Content--nlcqxvph, group309571699], nodpujka=[nodpujka, Content--nodpujka, group309571699], nstavxqa=[nstavxqa, Content--nstavxqa, group309571699], nuqssfal=[nuqssfal, Content--nuqssfal, group309571699], nxrcosyc=[nxrcosyc, Content--nxrcosyc, group309571699], panwouxu=[panwouxu, Content--panwouxu, group309571699], pilpmwdq=[pilpmwdq, Content--pilpmwdq, group309571699], qncfdyeo=[qncfdyeo, Content--qncfdyeo, group309571699], rbnklils=[rbnklils, Content--rbnklils, group309571699], rpoaqjao=[rpoaqjao, Content--rpoaqjao, group309571699], srxruxd^=[srxruxd^, Content--srxruxd^, group309571699], teykttsj=[teykttsj, Content--teykttsj, group309571699], upkuichq=[upkuichq, Content--upkuichq, group309571699], utddochi=[utddochi, Content--utddochi, group309571699], vhvnhsie=[vhvnhsie, Content--vhvnhsie, group309571699]}
+Log: AddOperation [recipe=[fxaoywbp, Content--fxaoywbp, group309571699], timestamp=group309571699@192.168.0.45:35000:   2]
+AddOperation [recipe=[mvfklprm, Content--mvfklprm, group309571699], timestamp=group309571699@192.168.0.45:35001:   0]
+AddOperation [recipe=[kmdmktua, Content--kmdmktua, group309571699], timestamp=group309571699@192.168.0.45:35001:   1]
+AddOperation [recipe=[iqqsdjfn, Content--iqqsdjfn, group309571699], timestamp=group309571699@192.168.0.45:35002:   1]
+AddOperation [recipe=[nlcqxvph, Content--nlcqxvph, group309571699], timestamp=group309571699@192.168.0.45:35003:   1]
+AddOperation [recipe=[panwouxu, Content--panwouxu, group309571699], timestamp=group309571699@192.168.0.45:35004:   2]
+AddOperation [recipe=[niejkgud, Content--niejkgud, group309571699], timestamp=group309571699@192.168.0.45:35005:   3]
+AddOperation [recipe=[utddochi, Content--utddochi, group309571699], timestamp=group309571699@192.168.0.45:35005:   4]
+AddOperation [recipe=[lvtdokhs, Content--lvtdokhs, group309571699], timestamp=group309571699@192.168.0.45:35007:   3]
+AddOperation [recipe=[codsqqbc, Content--codsqqbc, group309571699], timestamp=group309571699@192.168.0.45:35009:   2]
+
+Summary: group309571699@192.168.0.45:35000:   2
+group309571699@192.168.0.45:35001:   1
+group309571699@192.168.0.45:35002:   1
+group309571699@192.168.0.45:35003:   1
+group309571699@192.168.0.45:35004:   2
+group309571699@192.168.0.45:35005:   4
+group309571699@192.168.0.45:35006:   4
+group309571699@192.168.0.45:35007:   3
+group309571699@192.168.0.45:35008:   2
+group309571699@192.168.0.45:35009:   2
+
+Ack: group309571699@192.168.0.45:35000:   group309571699@192.168.0.45:35000:   2
+group309571699@192.168.0.45:35001:   1
+group309571699@192.168.0.45:35002:   1
+group309571699@192.168.0.45:35003:   1
+group309571699@192.168.0.45:35004:   2
+group309571699@192.168.0.45:35005:   4
+group309571699@192.168.0.45:35006:   4
+group309571699@192.168.0.45:35007:   3
+group309571699@192.168.0.45:35008:   2
+group309571699@192.168.0.45:35009:   2
+
+group309571699@192.168.0.45:35001:   group309571699@192.168.0.45:35000:   2
+group309571699@192.168.0.45:35001:   1
+group309571699@192.168.0.45:35002:   1
+group309571699@192.168.0.45:35003:   1
+group309571699@192.168.0.45:35004:   2
+group309571699@192.168.0.45:35005:   4
+group309571699@192.168.0.45:35006:   4
+group309571699@192.168.0.45:35007:   3
+group309571699@192.168.0.45:35008:   2
+group309571699@192.168.0.45:35009:   2
+
+group309571699@192.168.0.45:35002:   group309571699@192.168.0.45:35000:   2
+group309571699@192.168.0.45:35001:   1
+group309571699@192.168.0.45:35002:   1
+group309571699@192.168.0.45:35003:   1
+group309571699@192.168.0.45:35004:   2
+group309571699@192.168.0.45:35005:   4
+group309571699@192.168.0.45:35006:   4
+group309571699@192.168.0.45:35007:   3
+group309571699@192.168.0.45:35008:   2
+group309571699@192.168.0.45:35009:   2
+
+group309571699@192.168.0.45:35003:   group309571699@192.168.0.45:35000:   2
+group309571699@192.168.0.45:35001:   1
+group309571699@192.168.0.45:35002:   1
+group309571699@192.168.0.45:35003:   1
+group309571699@192.168.0.45:35004:   2
+group309571699@192.168.0.45:35005:   4
+group309571699@192.168.0.45:35006:   4
+group309571699@192.168.0.45:35007:   3
+group309571699@192.168.0.45:35008:   2
+group309571699@192.168.0.45:35009:   2
+
+group309571699@192.168.0.45:35004:   group309571699@192.168.0.45:35000:   2
+group309571699@192.168.0.45:35001:   1
+group309571699@192.168.0.45:35002:   1
+group309571699@192.168.0.45:35003:   1
+group309571699@192.168.0.45:35004:   2
+group309571699@192.168.0.45:35005:   4
+group309571699@192.168.0.45:35006:   4
+group309571699@192.168.0.45:35007:   3
+group309571699@192.168.0.45:35008:   2
+group309571699@192.168.0.45:35009:   2
+
+group309571699@192.168.0.45:35005:   group309571699@192.168.0.45:35000:   2
+group309571699@192.168.0.45:35001:   1
+group309571699@192.168.0.45:35002:   1
+group309571699@192.168.0.45:35003:   1
+group309571699@192.168.0.45:35004:   2
+group309571699@192.168.0.45:35005:   4
+group309571699@192.168.0.45:35006:   4
+group309571699@192.168.0.45:35007:   3
+group309571699@192.168.0.45:35008:   2
+group309571699@192.168.0.45:35009:   2
+
+group309571699@192.168.0.45:35006:   group309571699@192.168.0.45:35000:   1
+group309571699@192.168.0.45:35001:   -1000
+group309571699@192.168.0.45:35002:   0
+group309571699@192.168.0.45:35003:   0
+group309571699@192.168.0.45:35004:   1
+group309571699@192.168.0.45:35005:   2
+group309571699@192.168.0.45:35006:   4
+group309571699@192.168.0.45:35007:   2
+group309571699@192.168.0.45:35008:   2
+group309571699@192.168.0.45:35009:   1
+
+group309571699@192.168.0.45:35007:   group309571699@192.168.0.45:35000:   2
+group309571699@192.168.0.45:35001:   1
+group309571699@192.168.0.45:35002:   1
+group309571699@192.168.0.45:35003:   1
+group309571699@192.168.0.45:35004:   2
+group309571699@192.168.0.45:35005:   4
+group309571699@192.168.0.45:35006:   4
+group309571699@192.168.0.45:35007:   3
+group309571699@192.168.0.45:35008:   2
+group309571699@192.168.0.45:35009:   2
+
+group309571699@192.168.0.45:35008:   group309571699@192.168.0.45:35000:   2
+group309571699@192.168.0.45:35001:   1
+group309571699@192.168.0.45:35002:   1
+group309571699@192.168.0.45:35003:   1
+group309571699@192.168.0.45:35004:   2
+group309571699@192.168.0.45:35005:   4
+group309571699@192.168.0.45:35006:   4
+group309571699@192.168.0.45:35007:   3
+group309571699@192.168.0.45:35008:   2
+group309571699@192.168.0.45:35009:   2
+
+group309571699@192.168.0.45:35009:   group309571699@192.168.0.45:35000:   2
+group309571699@192.168.0.45:35001:   1
+group309571699@192.168.0.45:35002:   1
+group309571699@192.168.0.45:35003:   1
+group309571699@192.168.0.45:35004:   2
+group309571699@192.168.0.45:35005:   4
+group309571699@192.168.0.45:35006:   4
+group309571699@192.168.0.45:35007:   3
+group309571699@192.168.0.45:35008:   2
+group309571699@192.168.0.45:35009:   2
+
+
+##### group309571699	2021/01/20 10:10:19
+----- [group309571699@192.168.0.45:35000] Result:
+ Group id: group309571699
+Node id: group309571699@192.168.0.45:35000
+Recipes: {aafydmff=[aafydmff, Content--aafydmff, group309571699], afkfmcqg=[afkfmcqg, Content--afkfmcqg, group309571699], codsqqbc=[codsqqbc, Content--codsqqbc, group309571699], diaytcga=[diaytcga, Content--diaytcga, group309571699], dxwg^wwd=[dxwg^wwd, Content--dxwg^wwd, group309571699], eqkycbon=[eqkycbon, Content--eqkycbon, group309571699], fxaoywbp=[fxaoywbp, Content--fxaoywbp, group309571699], hohoeuht=[hohoeuht, Content--hohoeuht, group309571699], iqqsdjfn=[iqqsdjfn, Content--iqqsdjfn, group309571699], itwbnkql=[itwbnkql, Content--itwbnkql, group309571699], jplmxuoi=[jplmxuoi, Content--jplmxuoi, group309571699], jyqasgss=[jyqasgss, Content--jyqasgss, group309571699], kmdmktua=[kmdmktua, Content--kmdmktua, group309571699], krwqtpik=[krwqtpik, Content--krwqtpik, group309571699], lvtdokhs=[lvtdokhs, Content--lvtdokhs, group309571699], mvfklprm=[mvfklprm, Content--mvfklprm, group309571699], niejkgud=[niejkgud, Content--niejkgud, group309571699], nlcqxvph=[nlcqxvph, Content--nlcqxvph, group309571699], nodpujka=[nodpujka, Content--nodpujka, group309571699], nstavxqa=[nstavxqa, Content--nstavxqa, group309571699], nuqssfal=[nuqssfal, Content--nuqssfal, group309571699], nxrcosyc=[nxrcosyc, Content--nxrcosyc, group309571699], panwouxu=[panwouxu, Content--panwouxu, group309571699], pilpmwdq=[pilpmwdq, Content--pilpmwdq, group309571699], qncfdyeo=[qncfdyeo, Content--qncfdyeo, group309571699], rbnklils=[rbnklils, Content--rbnklils, group309571699], rpoaqjao=[rpoaqjao, Content--rpoaqjao, group309571699], srxruxd^=[srxruxd^, Content--srxruxd^, group309571699], teykttsj=[teykttsj, Content--teykttsj, group309571699], upkuichq=[upkuichq, Content--upkuichq, group309571699], utddochi=[utddochi, Content--utddochi, group309571699], vhvnhsie=[vhvnhsie, Content--vhvnhsie, group309571699]}
+Log: AddOperation [recipe=[fxaoywbp, Content--fxaoywbp, group309571699], timestamp=group309571699@192.168.0.45:35000:   2]
+AddOperation [recipe=[mvfklprm, Content--mvfklprm, group309571699], timestamp=group309571699@192.168.0.45:35001:   0]
+AddOperation [recipe=[kmdmktua, Content--kmdmktua, group309571699], timestamp=group309571699@192.168.0.45:35001:   1]
+AddOperation [recipe=[iqqsdjfn, Content--iqqsdjfn, group309571699], timestamp=group309571699@192.168.0.45:35002:   1]
+AddOperation [recipe=[nlcqxvph, Content--nlcqxvph, group309571699], timestamp=group309571699@192.168.0.45:35003:   1]
+AddOperation [recipe=[panwouxu, Content--panwouxu, group309571699], timestamp=group309571699@192.168.0.45:35004:   2]
+AddOperation [recipe=[niejkgud, Content--niejkgud, group309571699], timestamp=group309571699@192.168.0.45:35005:   3]
+AddOperation [recipe=[utddochi, Content--utddochi, group309571699], timestamp=group309571699@192.168.0.45:35005:   4]
+AddOperation [recipe=[lvtdokhs, Content--lvtdokhs, group309571699], timestamp=group309571699@192.168.0.45:35007:   3]
+AddOperation [recipe=[codsqqbc, Content--codsqqbc, group309571699], timestamp=group309571699@192.168.0.45:35009:   2]
+
+Summary: group309571699@192.168.0.45:35000:   2
+group309571699@192.168.0.45:35001:   1
+group309571699@192.168.0.45:35002:   1
+group309571699@192.168.0.45:35003:   1
+group309571699@192.168.0.45:35004:   2
+group309571699@192.168.0.45:35005:   4
+group309571699@192.168.0.45:35006:   4
+group309571699@192.168.0.45:35007:   3
+group309571699@192.168.0.45:35008:   2
+group309571699@192.168.0.45:35009:   2
+
+Ack: group309571699@192.168.0.45:35000:   group309571699@192.168.0.45:35000:   2
+group309571699@192.168.0.45:35001:   1
+group309571699@192.168.0.45:35002:   1
+group309571699@192.168.0.45:35003:   1
+group309571699@192.168.0.45:35004:   2
+group309571699@192.168.0.45:35005:   4
+group309571699@192.168.0.45:35006:   4
+group309571699@192.168.0.45:35007:   3
+group309571699@192.168.0.45:35008:   2
+group309571699@192.168.0.45:35009:   2
+
+group309571699@192.168.0.45:35001:   group309571699@192.168.0.45:35000:   2
+group309571699@192.168.0.45:35001:   1
+group309571699@192.168.0.45:35002:   1
+group309571699@192.168.0.45:35003:   1
+group309571699@192.168.0.45:35004:   2
+group309571699@192.168.0.45:35005:   4
+group309571699@192.168.0.45:35006:   4
+group309571699@192.168.0.45:35007:   3
+group309571699@192.168.0.45:35008:   2
+group309571699@192.168.0.45:35009:   2
+
+group309571699@192.168.0.45:35002:   group309571699@192.168.0.45:35000:   2
+group309571699@192.168.0.45:35001:   1
+group309571699@192.168.0.45:35002:   1
+group309571699@192.168.0.45:35003:   1
+group309571699@192.168.0.45:35004:   2
+group309571699@192.168.0.45:35005:   4
+group309571699@192.168.0.45:35006:   4
+group309571699@192.168.0.45:35007:   3
+group309571699@192.168.0.45:35008:   2
+group309571699@192.168.0.45:35009:   2
+
+group309571699@192.168.0.45:35003:   group309571699@192.168.0.45:35000:   2
+group309571699@192.168.0.45:35001:   1
+group309571699@192.168.0.45:35002:   1
+group309571699@192.168.0.45:35003:   1
+group309571699@192.168.0.45:35004:   2
+group309571699@192.168.0.45:35005:   4
+group309571699@192.168.0.45:35006:   4
+group309571699@192.168.0.45:35007:   3
+group309571699@192.168.0.45:35008:   2
+group309571699@192.168.0.45:35009:   2
+
+group309571699@192.168.0.45:35004:   group309571699@192.168.0.45:35000:   2
+group309571699@192.168.0.45:35001:   1
+group309571699@192.168.0.45:35002:   1
+group309571699@192.168.0.45:35003:   1
+group309571699@192.168.0.45:35004:   2
+group309571699@192.168.0.45:35005:   4
+group309571699@192.168.0.45:35006:   4
+group309571699@192.168.0.45:35007:   3
+group309571699@192.168.0.45:35008:   2
+group309571699@192.168.0.45:35009:   2
+
+group309571699@192.168.0.45:35005:   group309571699@192.168.0.45:35000:   2
+group309571699@192.168.0.45:35001:   1
+group309571699@192.168.0.45:35002:   1
+group309571699@192.168.0.45:35003:   1
+group309571699@192.168.0.45:35004:   2
+group309571699@192.168.0.45:35005:   4
+group309571699@192.168.0.45:35006:   4
+group309571699@192.168.0.45:35007:   3
+group309571699@192.168.0.45:35008:   2
+group309571699@192.168.0.45:35009:   2
+
+group309571699@192.168.0.45:35006:   group309571699@192.168.0.45:35000:   1
+group309571699@192.168.0.45:35001:   -1000
+group309571699@192.168.0.45:35002:   0
+group309571699@192.168.0.45:35003:   0
+group309571699@192.168.0.45:35004:   1
+group309571699@192.168.0.45:35005:   2
+group309571699@192.168.0.45:35006:   4
+group309571699@192.168.0.45:35007:   2
+group309571699@192.168.0.45:35008:   2
+group309571699@192.168.0.45:35009:   1
+
+group309571699@192.168.0.45:35007:   group309571699@192.168.0.45:35000:   2
+group309571699@192.168.0.45:35001:   1
+group309571699@192.168.0.45:35002:   1
+group309571699@192.168.0.45:35003:   1
+group309571699@192.168.0.45:35004:   2
+group309571699@192.168.0.45:35005:   4
+group309571699@192.168.0.45:35006:   4
+group309571699@192.168.0.45:35007:   3
+group309571699@192.168.0.45:35008:   2
+group309571699@192.168.0.45:35009:   2
+
+group309571699@192.168.0.45:35008:   group309571699@192.168.0.45:35000:   2
+group309571699@192.168.0.45:35001:   1
+group309571699@192.168.0.45:35002:   1
+group309571699@192.168.0.45:35003:   1
+group309571699@192.168.0.45:35004:   2
+group309571699@192.168.0.45:35005:   4
+group309571699@192.168.0.45:35006:   4
+group309571699@192.168.0.45:35007:   3
+group309571699@192.168.0.45:35008:   2
+group309571699@192.168.0.45:35009:   2
+
+group309571699@192.168.0.45:35009:   group309571699@192.168.0.45:35000:   2
+group309571699@192.168.0.45:35001:   1
+group309571699@192.168.0.45:35002:   1
+group309571699@192.168.0.45:35003:   1
+group309571699@192.168.0.45:35004:   2
+group309571699@192.168.0.45:35005:   4
+group309571699@192.168.0.45:35006:   4
+group309571699@192.168.0.45:35007:   3
+group309571699@192.168.0.45:35008:   2
+group309571699@192.168.0.45:35009:   2
+
+
+##### group309571699	2021/01/20 10:10:19
+----- [group309571699@192.168.0.45:35002] Result:
+ Group id: group309571699
+Node id: group309571699@192.168.0.45:35002
+Recipes: {aafydmff=[aafydmff, Content--aafydmff, group309571699], afkfmcqg=[afkfmcqg, Content--afkfmcqg, group309571699], codsqqbc=[codsqqbc, Content--codsqqbc, group309571699], diaytcga=[diaytcga, Content--diaytcga, group309571699], dxwg^wwd=[dxwg^wwd, Content--dxwg^wwd, group309571699], eqkycbon=[eqkycbon, Content--eqkycbon, group309571699], fxaoywbp=[fxaoywbp, Content--fxaoywbp, group309571699], hohoeuht=[hohoeuht, Content--hohoeuht, group309571699], iqqsdjfn=[iqqsdjfn, Content--iqqsdjfn, group309571699], itwbnkql=[itwbnkql, Content--itwbnkql, group309571699], jplmxuoi=[jplmxuoi, Content--jplmxuoi, group309571699], jyqasgss=[jyqasgss, Content--jyqasgss, group309571699], kmdmktua=[kmdmktua, Content--kmdmktua, group309571699], krwqtpik=[krwqtpik, Content--krwqtpik, group309571699], lvtdokhs=[lvtdokhs, Content--lvtdokhs, group309571699], mvfklprm=[mvfklprm, Content--mvfklprm, group309571699], niejkgud=[niejkgud, Content--niejkgud, group309571699], nlcqxvph=[nlcqxvph, Content--nlcqxvph, group309571699], nodpujka=[nodpujka, Content--nodpujka, group309571699], nstavxqa=[nstavxqa, Content--nstavxqa, group309571699], nuqssfal=[nuqssfal, Content--nuqssfal, group309571699], nxrcosyc=[nxrcosyc, Content--nxrcosyc, group309571699], panwouxu=[panwouxu, Content--panwouxu, group309571699], pilpmwdq=[pilpmwdq, Content--pilpmwdq, group309571699], qncfdyeo=[qncfdyeo, Content--qncfdyeo, group309571699], rbnklils=[rbnklils, Content--rbnklils, group309571699], rpoaqjao=[rpoaqjao, Content--rpoaqjao, group309571699], srxruxd^=[srxruxd^, Content--srxruxd^, group309571699], teykttsj=[teykttsj, Content--teykttsj, group309571699], upkuichq=[upkuichq, Content--upkuichq, group309571699], utddochi=[utddochi, Content--utddochi, group309571699], vhvnhsie=[vhvnhsie, Content--vhvnhsie, group309571699]}
+Log: AddOperation [recipe=[fxaoywbp, Content--fxaoywbp, group309571699], timestamp=group309571699@192.168.0.45:35000:   2]
+AddOperation [recipe=[mvfklprm, Content--mvfklprm, group309571699], timestamp=group309571699@192.168.0.45:35001:   0]
+AddOperation [recipe=[kmdmktua, Content--kmdmktua, group309571699], timestamp=group309571699@192.168.0.45:35001:   1]
+AddOperation [recipe=[iqqsdjfn, Content--iqqsdjfn, group309571699], timestamp=group309571699@192.168.0.45:35002:   1]
+AddOperation [recipe=[nlcqxvph, Content--nlcqxvph, group309571699], timestamp=group309571699@192.168.0.45:35003:   1]
+AddOperation [recipe=[panwouxu, Content--panwouxu, group309571699], timestamp=group309571699@192.168.0.45:35004:   2]
+AddOperation [recipe=[niejkgud, Content--niejkgud, group309571699], timestamp=group309571699@192.168.0.45:35005:   3]
+AddOperation [recipe=[utddochi, Content--utddochi, group309571699], timestamp=group309571699@192.168.0.45:35005:   4]
+AddOperation [recipe=[lvtdokhs, Content--lvtdokhs, group309571699], timestamp=group309571699@192.168.0.45:35007:   3]
+AddOperation [recipe=[codsqqbc, Content--codsqqbc, group309571699], timestamp=group309571699@192.168.0.45:35009:   2]
+
+Summary: group309571699@192.168.0.45:35000:   2
+group309571699@192.168.0.45:35001:   1
+group309571699@192.168.0.45:35002:   1
+group309571699@192.168.0.45:35003:   1
+group309571699@192.168.0.45:35004:   2
+group309571699@192.168.0.45:35005:   4
+group309571699@192.168.0.45:35006:   4
+group309571699@192.168.0.45:35007:   3
+group309571699@192.168.0.45:35008:   2
+group309571699@192.168.0.45:35009:   2
+
+Ack: group309571699@192.168.0.45:35000:   group309571699@192.168.0.45:35000:   2
+group309571699@192.168.0.45:35001:   1
+group309571699@192.168.0.45:35002:   1
+group309571699@192.168.0.45:35003:   1
+group309571699@192.168.0.45:35004:   2
+group309571699@192.168.0.45:35005:   4
+group309571699@192.168.0.45:35006:   4
+group309571699@192.168.0.45:35007:   3
+group309571699@192.168.0.45:35008:   2
+group309571699@192.168.0.45:35009:   2
+
+group309571699@192.168.0.45:35001:   group309571699@192.168.0.45:35000:   2
+group309571699@192.168.0.45:35001:   1
+group309571699@192.168.0.45:35002:   1
+group309571699@192.168.0.45:35003:   1
+group309571699@192.168.0.45:35004:   2
+group309571699@192.168.0.45:35005:   4
+group309571699@192.168.0.45:35006:   4
+group309571699@192.168.0.45:35007:   3
+group309571699@192.168.0.45:35008:   2
+group309571699@192.168.0.45:35009:   2
+
+group309571699@192.168.0.45:35002:   group309571699@192.168.0.45:35000:   2
+group309571699@192.168.0.45:35001:   1
+group309571699@192.168.0.45:35002:   1
+group309571699@192.168.0.45:35003:   1
+group309571699@192.168.0.45:35004:   2
+group309571699@192.168.0.45:35005:   4
+group309571699@192.168.0.45:35006:   4
+group309571699@192.168.0.45:35007:   3
+group309571699@192.168.0.45:35008:   2
+group309571699@192.168.0.45:35009:   2
+
+group309571699@192.168.0.45:35003:   group309571699@192.168.0.45:35000:   2
+group309571699@192.168.0.45:35001:   1
+group309571699@192.168.0.45:35002:   1
+group309571699@192.168.0.45:35003:   1
+group309571699@192.168.0.45:35004:   2
+group309571699@192.168.0.45:35005:   4
+group309571699@192.168.0.45:35006:   4
+group309571699@192.168.0.45:35007:   3
+group309571699@192.168.0.45:35008:   2
+group309571699@192.168.0.45:35009:   2
+
+group309571699@192.168.0.45:35004:   group309571699@192.168.0.45:35000:   2
+group309571699@192.168.0.45:35001:   1
+group309571699@192.168.0.45:35002:   1
+group309571699@192.168.0.45:35003:   1
+group309571699@192.168.0.45:35004:   2
+group309571699@192.168.0.45:35005:   4
+group309571699@192.168.0.45:35006:   4
+group309571699@192.168.0.45:35007:   3
+group309571699@192.168.0.45:35008:   2
+group309571699@192.168.0.45:35009:   2
+
+group309571699@192.168.0.45:35005:   group309571699@192.168.0.45:35000:   2
+group309571699@192.168.0.45:35001:   1
+group309571699@192.168.0.45:35002:   1
+group309571699@192.168.0.45:35003:   1
+group309571699@192.168.0.45:35004:   2
+group309571699@192.168.0.45:35005:   4
+group309571699@192.168.0.45:35006:   4
+group309571699@192.168.0.45:35007:   3
+group309571699@192.168.0.45:35008:   2
+group309571699@192.168.0.45:35009:   2
+
+group309571699@192.168.0.45:35006:   group309571699@192.168.0.45:35000:   1
+group309571699@192.168.0.45:35001:   -1000
+group309571699@192.168.0.45:35002:   0
+group309571699@192.168.0.45:35003:   0
+group309571699@192.168.0.45:35004:   1
+group309571699@192.168.0.45:35005:   2
+group309571699@192.168.0.45:35006:   4
+group309571699@192.168.0.45:35007:   2
+group309571699@192.168.0.45:35008:   2
+group309571699@192.168.0.45:35009:   1
+
+group309571699@192.168.0.45:35007:   group309571699@192.168.0.45:35000:   2
+group309571699@192.168.0.45:35001:   1
+group309571699@192.168.0.45:35002:   1
+group309571699@192.168.0.45:35003:   1
+group309571699@192.168.0.45:35004:   2
+group309571699@192.168.0.45:35005:   4
+group309571699@192.168.0.45:35006:   4
+group309571699@192.168.0.45:35007:   3
+group309571699@192.168.0.45:35008:   2
+group309571699@192.168.0.45:35009:   2
+
+group309571699@192.168.0.45:35008:   group309571699@192.168.0.45:35000:   2
+group309571699@192.168.0.45:35001:   1
+group309571699@192.168.0.45:35002:   1
+group309571699@192.168.0.45:35003:   1
+group309571699@192.168.0.45:35004:   2
+group309571699@192.168.0.45:35005:   4
+group309571699@192.168.0.45:35006:   4
+group309571699@192.168.0.45:35007:   3
+group309571699@192.168.0.45:35008:   2
+group309571699@192.168.0.45:35009:   2
+
+group309571699@192.168.0.45:35009:   group309571699@192.168.0.45:35000:   2
+group309571699@192.168.0.45:35001:   1
+group309571699@192.168.0.45:35002:   1
+group309571699@192.168.0.45:35003:   1
+group309571699@192.168.0.45:35004:   2
+group309571699@192.168.0.45:35005:   4
+group309571699@192.168.0.45:35006:   4
+group309571699@192.168.0.45:35007:   3
+group309571699@192.168.0.45:35008:   2
+group309571699@192.168.0.45:35009:   2
+
+
+##### group309571699	2021/01/20 10:10:19
+----- [group309571699@192.168.0.45:35003] Result:
+ Group id: group309571699
+Node id: group309571699@192.168.0.45:35003
+Recipes: {aafydmff=[aafydmff, Content--aafydmff, group309571699], afkfmcqg=[afkfmcqg, Content--afkfmcqg, group309571699], codsqqbc=[codsqqbc, Content--codsqqbc, group309571699], diaytcga=[diaytcga, Content--diaytcga, group309571699], dxwg^wwd=[dxwg^wwd, Content--dxwg^wwd, group309571699], eqkycbon=[eqkycbon, Content--eqkycbon, group309571699], fxaoywbp=[fxaoywbp, Content--fxaoywbp, group309571699], hohoeuht=[hohoeuht, Content--hohoeuht, group309571699], iqqsdjfn=[iqqsdjfn, Content--iqqsdjfn, group309571699], itwbnkql=[itwbnkql, Content--itwbnkql, group309571699], jplmxuoi=[jplmxuoi, Content--jplmxuoi, group309571699], jyqasgss=[jyqasgss, Content--jyqasgss, group309571699], kmdmktua=[kmdmktua, Content--kmdmktua, group309571699], krwqtpik=[krwqtpik, Content--krwqtpik, group309571699], lvtdokhs=[lvtdokhs, Content--lvtdokhs, group309571699], mvfklprm=[mvfklprm, Content--mvfklprm, group309571699], niejkgud=[niejkgud, Content--niejkgud, group309571699], nlcqxvph=[nlcqxvph, Content--nlcqxvph, group309571699], nodpujka=[nodpujka, Content--nodpujka, group309571699], nstavxqa=[nstavxqa, Content--nstavxqa, group309571699], nuqssfal=[nuqssfal, Content--nuqssfal, group309571699], nxrcosyc=[nxrcosyc, Content--nxrcosyc, group309571699], panwouxu=[panwouxu, Content--panwouxu, group309571699], pilpmwdq=[pilpmwdq, Content--pilpmwdq, group309571699], qncfdyeo=[qncfdyeo, Content--qncfdyeo, group309571699], rbnklils=[rbnklils, Content--rbnklils, group309571699], rpoaqjao=[rpoaqjao, Content--rpoaqjao, group309571699], srxruxd^=[srxruxd^, Content--srxruxd^, group309571699], teykttsj=[teykttsj, Content--teykttsj, group309571699], upkuichq=[upkuichq, Content--upkuichq, group309571699], utddochi=[utddochi, Content--utddochi, group309571699], vhvnhsie=[vhvnhsie, Content--vhvnhsie, group309571699]}
+Log: AddOperation [recipe=[fxaoywbp, Content--fxaoywbp, group309571699], timestamp=group309571699@192.168.0.45:35000:   2]
+AddOperation [recipe=[mvfklprm, Content--mvfklprm, group309571699], timestamp=group309571699@192.168.0.45:35001:   0]
+AddOperation [recipe=[kmdmktua, Content--kmdmktua, group309571699], timestamp=group309571699@192.168.0.45:35001:   1]
+AddOperation [recipe=[iqqsdjfn, Content--iqqsdjfn, group309571699], timestamp=group309571699@192.168.0.45:35002:   1]
+AddOperation [recipe=[nlcqxvph, Content--nlcqxvph, group309571699], timestamp=group309571699@192.168.0.45:35003:   1]
+AddOperation [recipe=[panwouxu, Content--panwouxu, group309571699], timestamp=group309571699@192.168.0.45:35004:   2]
+AddOperation [recipe=[niejkgud, Content--niejkgud, group309571699], timestamp=group309571699@192.168.0.45:35005:   3]
+AddOperation [recipe=[utddochi, Content--utddochi, group309571699], timestamp=group309571699@192.168.0.45:35005:   4]
+AddOperation [recipe=[lvtdokhs, Content--lvtdokhs, group309571699], timestamp=group309571699@192.168.0.45:35007:   3]
+AddOperation [recipe=[codsqqbc, Content--codsqqbc, group309571699], timestamp=group309571699@192.168.0.45:35009:   2]
+
+Summary: group309571699@192.168.0.45:35000:   2
+group309571699@192.168.0.45:35001:   1
+group309571699@192.168.0.45:35002:   1
+group309571699@192.168.0.45:35003:   1
+group309571699@192.168.0.45:35004:   2
+group309571699@192.168.0.45:35005:   4
+group309571699@192.168.0.45:35006:   4
+group309571699@192.168.0.45:35007:   3
+group309571699@192.168.0.45:35008:   2
+group309571699@192.168.0.45:35009:   2
+
+Ack: group309571699@192.168.0.45:35000:   group309571699@192.168.0.45:35000:   2
+group309571699@192.168.0.45:35001:   1
+group309571699@192.168.0.45:35002:   1
+group309571699@192.168.0.45:35003:   1
+group309571699@192.168.0.45:35004:   2
+group309571699@192.168.0.45:35005:   4
+group309571699@192.168.0.45:35006:   4
+group309571699@192.168.0.45:35007:   3
+group309571699@192.168.0.45:35008:   2
+group309571699@192.168.0.45:35009:   2
+
+group309571699@192.168.0.45:35001:   group309571699@192.168.0.45:35000:   2
+group309571699@192.168.0.45:35001:   1
+group309571699@192.168.0.45:35002:   1
+group309571699@192.168.0.45:35003:   1
+group309571699@192.168.0.45:35004:   2
+group309571699@192.168.0.45:35005:   4
+group309571699@192.168.0.45:35006:   4
+group309571699@192.168.0.45:35007:   3
+group309571699@192.168.0.45:35008:   2
+group309571699@192.168.0.45:35009:   2
+
+group309571699@192.168.0.45:35002:   group309571699@192.168.0.45:35000:   2
+group309571699@192.168.0.45:35001:   1
+group309571699@192.168.0.45:35002:   1
+group309571699@192.168.0.45:35003:   1
+group309571699@192.168.0.45:35004:   2
+group309571699@192.168.0.45:35005:   4
+group309571699@192.168.0.45:35006:   4
+group309571699@192.168.0.45:35007:   3
+group309571699@192.168.0.45:35008:   2
+group309571699@192.168.0.45:35009:   2
+
+group309571699@192.168.0.45:35003:   group309571699@192.168.0.45:35000:   2
+group309571699@192.168.0.45:35001:   1
+group309571699@192.168.0.45:35002:   1
+group309571699@192.168.0.45:35003:   1
+group309571699@192.168.0.45:35004:   2
+group309571699@192.168.0.45:35005:   4
+group309571699@192.168.0.45:35006:   4
+group309571699@192.168.0.45:35007:   3
+group309571699@192.168.0.45:35008:   2
+group309571699@192.168.0.45:35009:   2
+
+group309571699@192.168.0.45:35004:   group309571699@192.168.0.45:35000:   2
+group309571699@192.168.0.45:35001:   1
+group309571699@192.168.0.45:35002:   1
+group309571699@192.168.0.45:35003:   1
+group309571699@192.168.0.45:35004:   2
+group309571699@192.168.0.45:35005:   4
+group309571699@192.168.0.45:35006:   4
+group309571699@192.168.0.45:35007:   3
+group309571699@192.168.0.45:35008:   2
+group309571699@192.168.0.45:35009:   2
+
+group309571699@192.168.0.45:35005:   group309571699@192.168.0.45:35000:   2
+group309571699@192.168.0.45:35001:   1
+group309571699@192.168.0.45:35002:   1
+group309571699@192.168.0.45:35003:   1
+group309571699@192.168.0.45:35004:   2
+group309571699@192.168.0.45:35005:   4
+group309571699@192.168.0.45:35006:   4
+group309571699@192.168.0.45:35007:   3
+group309571699@192.168.0.45:35008:   2
+group309571699@192.168.0.45:35009:   2
+
+group309571699@192.168.0.45:35006:   group309571699@192.168.0.45:35000:   1
+group309571699@192.168.0.45:35001:   -1000
+group309571699@192.168.0.45:35002:   0
+group309571699@192.168.0.45:35003:   0
+group309571699@192.168.0.45:35004:   1
+group309571699@192.168.0.45:35005:   2
+group309571699@192.168.0.45:35006:   4
+group309571699@192.168.0.45:35007:   2
+group309571699@192.168.0.45:35008:   2
+group309571699@192.168.0.45:35009:   1
+
+group309571699@192.168.0.45:35007:   group309571699@192.168.0.45:35000:   2
+group309571699@192.168.0.45:35001:   1
+group309571699@192.168.0.45:35002:   1
+group309571699@192.168.0.45:35003:   1
+group309571699@192.168.0.45:35004:   2
+group309571699@192.168.0.45:35005:   4
+group309571699@192.168.0.45:35006:   4
+group309571699@192.168.0.45:35007:   3
+group309571699@192.168.0.45:35008:   2
+group309571699@192.168.0.45:35009:   2
+
+group309571699@192.168.0.45:35008:   group309571699@192.168.0.45:35000:   2
+group309571699@192.168.0.45:35001:   1
+group309571699@192.168.0.45:35002:   1
+group309571699@192.168.0.45:35003:   1
+group309571699@192.168.0.45:35004:   2
+group309571699@192.168.0.45:35005:   4
+group309571699@192.168.0.45:35006:   4
+group309571699@192.168.0.45:35007:   3
+group309571699@192.168.0.45:35008:   2
+group309571699@192.168.0.45:35009:   2
+
+group309571699@192.168.0.45:35009:   group309571699@192.168.0.45:35000:   2
+group309571699@192.168.0.45:35001:   1
+group309571699@192.168.0.45:35002:   1
+group309571699@192.168.0.45:35003:   1
+group309571699@192.168.0.45:35004:   2
+group309571699@192.168.0.45:35005:   4
+group309571699@192.168.0.45:35006:   4
+group309571699@192.168.0.45:35007:   3
+group309571699@192.168.0.45:35008:   2
+group309571699@192.168.0.45:35009:   2
+
+
+##### group309571699	2021/01/20 10:10:19
+----- [group309571699@192.168.0.45:35004] Result:
+ Group id: group309571699
+Node id: group309571699@192.168.0.45:35004
+Recipes: {aafydmff=[aafydmff, Content--aafydmff, group309571699], afkfmcqg=[afkfmcqg, Content--afkfmcqg, group309571699], codsqqbc=[codsqqbc, Content--codsqqbc, group309571699], diaytcga=[diaytcga, Content--diaytcga, group309571699], dxwg^wwd=[dxwg^wwd, Content--dxwg^wwd, group309571699], eqkycbon=[eqkycbon, Content--eqkycbon, group309571699], fxaoywbp=[fxaoywbp, Content--fxaoywbp, group309571699], hohoeuht=[hohoeuht, Content--hohoeuht, group309571699], iqqsdjfn=[iqqsdjfn, Content--iqqsdjfn, group309571699], itwbnkql=[itwbnkql, Content--itwbnkql, group309571699], jplmxuoi=[jplmxuoi, Content--jplmxuoi, group309571699], jyqasgss=[jyqasgss, Content--jyqasgss, group309571699], kmdmktua=[kmdmktua, Content--kmdmktua, group309571699], krwqtpik=[krwqtpik, Content--krwqtpik, group309571699], lvtdokhs=[lvtdokhs, Content--lvtdokhs, group309571699], mvfklprm=[mvfklprm, Content--mvfklprm, group309571699], niejkgud=[niejkgud, Content--niejkgud, group309571699], nlcqxvph=[nlcqxvph, Content--nlcqxvph, group309571699], nodpujka=[nodpujka, Content--nodpujka, group309571699], nstavxqa=[nstavxqa, Content--nstavxqa, group309571699], nuqssfal=[nuqssfal, Content--nuqssfal, group309571699], nxrcosyc=[nxrcosyc, Content--nxrcosyc, group309571699], panwouxu=[panwouxu, Content--panwouxu, group309571699], pilpmwdq=[pilpmwdq, Content--pilpmwdq, group309571699], qncfdyeo=[qncfdyeo, Content--qncfdyeo, group309571699], rbnklils=[rbnklils, Content--rbnklils, group309571699], rpoaqjao=[rpoaqjao, Content--rpoaqjao, group309571699], srxruxd^=[srxruxd^, Content--srxruxd^, group309571699], teykttsj=[teykttsj, Content--teykttsj, group309571699], upkuichq=[upkuichq, Content--upkuichq, group309571699], utddochi=[utddochi, Content--utddochi, group309571699], vhvnhsie=[vhvnhsie, Content--vhvnhsie, group309571699]}
+Log: AddOperation [recipe=[fxaoywbp, Content--fxaoywbp, group309571699], timestamp=group309571699@192.168.0.45:35000:   2]
+AddOperation [recipe=[mvfklprm, Content--mvfklprm, group309571699], timestamp=group309571699@192.168.0.45:35001:   0]
+AddOperation [recipe=[kmdmktua, Content--kmdmktua, group309571699], timestamp=group309571699@192.168.0.45:35001:   1]
+AddOperation [recipe=[iqqsdjfn, Content--iqqsdjfn, group309571699], timestamp=group309571699@192.168.0.45:35002:   1]
+AddOperation [recipe=[nlcqxvph, Content--nlcqxvph, group309571699], timestamp=group309571699@192.168.0.45:35003:   1]
+AddOperation [recipe=[panwouxu, Content--panwouxu, group309571699], timestamp=group309571699@192.168.0.45:35004:   2]
+AddOperation [recipe=[niejkgud, Content--niejkgud, group309571699], timestamp=group309571699@192.168.0.45:35005:   3]
+AddOperation [recipe=[utddochi, Content--utddochi, group309571699], timestamp=group309571699@192.168.0.45:35005:   4]
+AddOperation [recipe=[lvtdokhs, Content--lvtdokhs, group309571699], timestamp=group309571699@192.168.0.45:35007:   3]
+AddOperation [recipe=[codsqqbc, Content--codsqqbc, group309571699], timestamp=group309571699@192.168.0.45:35009:   2]
+
+Summary: group309571699@192.168.0.45:35000:   2
+group309571699@192.168.0.45:35001:   1
+group309571699@192.168.0.45:35002:   1
+group309571699@192.168.0.45:35003:   1
+group309571699@192.168.0.45:35004:   2
+group309571699@192.168.0.45:35005:   4
+group309571699@192.168.0.45:35006:   4
+group309571699@192.168.0.45:35007:   3
+group309571699@192.168.0.45:35008:   2
+group309571699@192.168.0.45:35009:   2
+
+Ack: group309571699@192.168.0.45:35000:   group309571699@192.168.0.45:35000:   2
+group309571699@192.168.0.45:35001:   1
+group309571699@192.168.0.45:35002:   1
+group309571699@192.168.0.45:35003:   1
+group309571699@192.168.0.45:35004:   2
+group309571699@192.168.0.45:35005:   4
+group309571699@192.168.0.45:35006:   4
+group309571699@192.168.0.45:35007:   3
+group309571699@192.168.0.45:35008:   2
+group309571699@192.168.0.45:35009:   2
+
+group309571699@192.168.0.45:35001:   group309571699@192.168.0.45:35000:   2
+group309571699@192.168.0.45:35001:   1
+group309571699@192.168.0.45:35002:   1
+group309571699@192.168.0.45:35003:   1
+group309571699@192.168.0.45:35004:   2
+group309571699@192.168.0.45:35005:   4
+group309571699@192.168.0.45:35006:   4
+group309571699@192.168.0.45:35007:   3
+group309571699@192.168.0.45:35008:   2
+group309571699@192.168.0.45:35009:   2
+
+group309571699@192.168.0.45:35002:   group309571699@192.168.0.45:35000:   2
+group309571699@192.168.0.45:35001:   1
+group309571699@192.168.0.45:35002:   1
+group309571699@192.168.0.45:35003:   1
+group309571699@192.168.0.45:35004:   2
+group309571699@192.168.0.45:35005:   4
+group309571699@192.168.0.45:35006:   4
+group309571699@192.168.0.45:35007:   3
+group309571699@192.168.0.45:35008:   2
+group309571699@192.168.0.45:35009:   2
+
+group309571699@192.168.0.45:35003:   group309571699@192.168.0.45:35000:   2
+group309571699@192.168.0.45:35001:   1
+group309571699@192.168.0.45:35002:   1
+group309571699@192.168.0.45:35003:   1
+group309571699@192.168.0.45:35004:   2
+group309571699@192.168.0.45:35005:   4
+group309571699@192.168.0.45:35006:   4
+group309571699@192.168.0.45:35007:   3
+group309571699@192.168.0.45:35008:   2
+group309571699@192.168.0.45:35009:   2
+
+group309571699@192.168.0.45:35004:   group309571699@192.168.0.45:35000:   2
+group309571699@192.168.0.45:35001:   1
+group309571699@192.168.0.45:35002:   1
+group309571699@192.168.0.45:35003:   1
+group309571699@192.168.0.45:35004:   2
+group309571699@192.168.0.45:35005:   4
+group309571699@192.168.0.45:35006:   4
+group309571699@192.168.0.45:35007:   3
+group309571699@192.168.0.45:35008:   2
+group309571699@192.168.0.45:35009:   2
+
+group309571699@192.168.0.45:35005:   group309571699@192.168.0.45:35000:   2
+group309571699@192.168.0.45:35001:   1
+group309571699@192.168.0.45:35002:   1
+group309571699@192.168.0.45:35003:   1
+group309571699@192.168.0.45:35004:   2
+group309571699@192.168.0.45:35005:   4
+group309571699@192.168.0.45:35006:   4
+group309571699@192.168.0.45:35007:   3
+group309571699@192.168.0.45:35008:   2
+group309571699@192.168.0.45:35009:   2
+
+group309571699@192.168.0.45:35006:   group309571699@192.168.0.45:35000:   1
+group309571699@192.168.0.45:35001:   -1000
+group309571699@192.168.0.45:35002:   0
+group309571699@192.168.0.45:35003:   0
+group309571699@192.168.0.45:35004:   1
+group309571699@192.168.0.45:35005:   2
+group309571699@192.168.0.45:35006:   4
+group309571699@192.168.0.45:35007:   2
+group309571699@192.168.0.45:35008:   2
+group309571699@192.168.0.45:35009:   1
+
+group309571699@192.168.0.45:35007:   group309571699@192.168.0.45:35000:   2
+group309571699@192.168.0.45:35001:   1
+group309571699@192.168.0.45:35002:   1
+group309571699@192.168.0.45:35003:   1
+group309571699@192.168.0.45:35004:   2
+group309571699@192.168.0.45:35005:   4
+group309571699@192.168.0.45:35006:   4
+group309571699@192.168.0.45:35007:   3
+group309571699@192.168.0.45:35008:   2
+group309571699@192.168.0.45:35009:   2
+
+group309571699@192.168.0.45:35008:   group309571699@192.168.0.45:35000:   2
+group309571699@192.168.0.45:35001:   1
+group309571699@192.168.0.45:35002:   1
+group309571699@192.168.0.45:35003:   1
+group309571699@192.168.0.45:35004:   2
+group309571699@192.168.0.45:35005:   4
+group309571699@192.168.0.45:35006:   4
+group309571699@192.168.0.45:35007:   3
+group309571699@192.168.0.45:35008:   2
+group309571699@192.168.0.45:35009:   2
+
+group309571699@192.168.0.45:35009:   group309571699@192.168.0.45:35000:   2
+group309571699@192.168.0.45:35001:   1
+group309571699@192.168.0.45:35002:   1
+group309571699@192.168.0.45:35003:   1
+group309571699@192.168.0.45:35004:   2
+group309571699@192.168.0.45:35005:   4
+group309571699@192.168.0.45:35006:   4
+group309571699@192.168.0.45:35007:   3
+group309571699@192.168.0.45:35008:   2
+group309571699@192.168.0.45:35009:   2
+
+
+##### group309571699	2021/01/20 10:10:19
+----- [group309571699@192.168.0.45:35005] Result:
+ Group id: group309571699
+Node id: group309571699@192.168.0.45:35005
+Recipes: {aafydmff=[aafydmff, Content--aafydmff, group309571699], afkfmcqg=[afkfmcqg, Content--afkfmcqg, group309571699], codsqqbc=[codsqqbc, Content--codsqqbc, group309571699], diaytcga=[diaytcga, Content--diaytcga, group309571699], dxwg^wwd=[dxwg^wwd, Content--dxwg^wwd, group309571699], eqkycbon=[eqkycbon, Content--eqkycbon, group309571699], fxaoywbp=[fxaoywbp, Content--fxaoywbp, group309571699], hohoeuht=[hohoeuht, Content--hohoeuht, group309571699], iqqsdjfn=[iqqsdjfn, Content--iqqsdjfn, group309571699], itwbnkql=[itwbnkql, Content--itwbnkql, group309571699], jplmxuoi=[jplmxuoi, Content--jplmxuoi, group309571699], jyqasgss=[jyqasgss, Content--jyqasgss, group309571699], kmdmktua=[kmdmktua, Content--kmdmktua, group309571699], krwqtpik=[krwqtpik, Content--krwqtpik, group309571699], lvtdokhs=[lvtdokhs, Content--lvtdokhs, group309571699], mvfklprm=[mvfklprm, Content--mvfklprm, group309571699], niejkgud=[niejkgud, Content--niejkgud, group309571699], nlcqxvph=[nlcqxvph, Content--nlcqxvph, group309571699], nodpujka=[nodpujka, Content--nodpujka, group309571699], nstavxqa=[nstavxqa, Content--nstavxqa, group309571699], nuqssfal=[nuqssfal, Content--nuqssfal, group309571699], nxrcosyc=[nxrcosyc, Content--nxrcosyc, group309571699], panwouxu=[panwouxu, Content--panwouxu, group309571699], pilpmwdq=[pilpmwdq, Content--pilpmwdq, group309571699], qncfdyeo=[qncfdyeo, Content--qncfdyeo, group309571699], rbnklils=[rbnklils, Content--rbnklils, group309571699], rpoaqjao=[rpoaqjao, Content--rpoaqjao, group309571699], srxruxd^=[srxruxd^, Content--srxruxd^, group309571699], teykttsj=[teykttsj, Content--teykttsj, group309571699], upkuichq=[upkuichq, Content--upkuichq, group309571699], utddochi=[utddochi, Content--utddochi, group309571699], vhvnhsie=[vhvnhsie, Content--vhvnhsie, group309571699]}
+Log: AddOperation [recipe=[fxaoywbp, Content--fxaoywbp, group309571699], timestamp=group309571699@192.168.0.45:35000:   2]
+AddOperation [recipe=[mvfklprm, Content--mvfklprm, group309571699], timestamp=group309571699@192.168.0.45:35001:   0]
+AddOperation [recipe=[kmdmktua, Content--kmdmktua, group309571699], timestamp=group309571699@192.168.0.45:35001:   1]
+AddOperation [recipe=[iqqsdjfn, Content--iqqsdjfn, group309571699], timestamp=group309571699@192.168.0.45:35002:   1]
+AddOperation [recipe=[nlcqxvph, Content--nlcqxvph, group309571699], timestamp=group309571699@192.168.0.45:35003:   1]
+AddOperation [recipe=[panwouxu, Content--panwouxu, group309571699], timestamp=group309571699@192.168.0.45:35004:   2]
+AddOperation [recipe=[niejkgud, Content--niejkgud, group309571699], timestamp=group309571699@192.168.0.45:35005:   3]
+AddOperation [recipe=[utddochi, Content--utddochi, group309571699], timestamp=group309571699@192.168.0.45:35005:   4]
+AddOperation [recipe=[lvtdokhs, Content--lvtdokhs, group309571699], timestamp=group309571699@192.168.0.45:35007:   3]
+AddOperation [recipe=[codsqqbc, Content--codsqqbc, group309571699], timestamp=group309571699@192.168.0.45:35009:   2]
+
+Summary: group309571699@192.168.0.45:35000:   2
+group309571699@192.168.0.45:35001:   1
+group309571699@192.168.0.45:35002:   1
+group309571699@192.168.0.45:35003:   1
+group309571699@192.168.0.45:35004:   2
+group309571699@192.168.0.45:35005:   4
+group309571699@192.168.0.45:35006:   4
+group309571699@192.168.0.45:35007:   3
+group309571699@192.168.0.45:35008:   2
+group309571699@192.168.0.45:35009:   2
+
+Ack: group309571699@192.168.0.45:35000:   group309571699@192.168.0.45:35000:   2
+group309571699@192.168.0.45:35001:   1
+group309571699@192.168.0.45:35002:   1
+group309571699@192.168.0.45:35003:   1
+group309571699@192.168.0.45:35004:   2
+group309571699@192.168.0.45:35005:   4
+group309571699@192.168.0.45:35006:   4
+group309571699@192.168.0.45:35007:   3
+group309571699@192.168.0.45:35008:   2
+group309571699@192.168.0.45:35009:   2
+
+group309571699@192.168.0.45:35001:   group309571699@192.168.0.45:35000:   2
+group309571699@192.168.0.45:35001:   1
+group309571699@192.168.0.45:35002:   1
+group309571699@192.168.0.45:35003:   1
+group309571699@192.168.0.45:35004:   2
+group309571699@192.168.0.45:35005:   4
+group309571699@192.168.0.45:35006:   4
+group309571699@192.168.0.45:35007:   3
+group309571699@192.168.0.45:35008:   2
+group309571699@192.168.0.45:35009:   2
+
+group309571699@192.168.0.45:35002:   group309571699@192.168.0.45:35000:   2
+group309571699@192.168.0.45:35001:   1
+group309571699@192.168.0.45:35002:   1
+group309571699@192.168.0.45:35003:   1
+group309571699@192.168.0.45:35004:   2
+group309571699@192.168.0.45:35005:   4
+group309571699@192.168.0.45:35006:   4
+group309571699@192.168.0.45:35007:   3
+group309571699@192.168.0.45:35008:   2
+group309571699@192.168.0.45:35009:   2
+
+group309571699@192.168.0.45:35003:   group309571699@192.168.0.45:35000:   2
+group309571699@192.168.0.45:35001:   1
+group309571699@192.168.0.45:35002:   1
+group309571699@192.168.0.45:35003:   1
+group309571699@192.168.0.45:35004:   2
+group309571699@192.168.0.45:35005:   4
+group309571699@192.168.0.45:35006:   4
+group309571699@192.168.0.45:35007:   3
+group309571699@192.168.0.45:35008:   2
+group309571699@192.168.0.45:35009:   2
+
+group309571699@192.168.0.45:35004:   group309571699@192.168.0.45:35000:   2
+group309571699@192.168.0.45:35001:   1
+group309571699@192.168.0.45:35002:   1
+group309571699@192.168.0.45:35003:   1
+group309571699@192.168.0.45:35004:   2
+group309571699@192.168.0.45:35005:   4
+group309571699@192.168.0.45:35006:   4
+group309571699@192.168.0.45:35007:   3
+group309571699@192.168.0.45:35008:   2
+group309571699@192.168.0.45:35009:   2
+
+group309571699@192.168.0.45:35005:   group309571699@192.168.0.45:35000:   2
+group309571699@192.168.0.45:35001:   1
+group309571699@192.168.0.45:35002:   1
+group309571699@192.168.0.45:35003:   1
+group309571699@192.168.0.45:35004:   2
+group309571699@192.168.0.45:35005:   4
+group309571699@192.168.0.45:35006:   4
+group309571699@192.168.0.45:35007:   3
+group309571699@192.168.0.45:35008:   2
+group309571699@192.168.0.45:35009:   2
+
+group309571699@192.168.0.45:35006:   group309571699@192.168.0.45:35000:   1
+group309571699@192.168.0.45:35001:   -1000
+group309571699@192.168.0.45:35002:   0
+group309571699@192.168.0.45:35003:   0
+group309571699@192.168.0.45:35004:   1
+group309571699@192.168.0.45:35005:   2
+group309571699@192.168.0.45:35006:   4
+group309571699@192.168.0.45:35007:   2
+group309571699@192.168.0.45:35008:   2
+group309571699@192.168.0.45:35009:   1
+
+group309571699@192.168.0.45:35007:   group309571699@192.168.0.45:35000:   2
+group309571699@192.168.0.45:35001:   1
+group309571699@192.168.0.45:35002:   1
+group309571699@192.168.0.45:35003:   1
+group309571699@192.168.0.45:35004:   2
+group309571699@192.168.0.45:35005:   4
+group309571699@192.168.0.45:35006:   4
+group309571699@192.168.0.45:35007:   3
+group309571699@192.168.0.45:35008:   2
+group309571699@192.168.0.45:35009:   2
+
+group309571699@192.168.0.45:35008:   group309571699@192.168.0.45:35000:   2
+group309571699@192.168.0.45:35001:   1
+group309571699@192.168.0.45:35002:   1
+group309571699@192.168.0.45:35003:   1
+group309571699@192.168.0.45:35004:   2
+group309571699@192.168.0.45:35005:   4
+group309571699@192.168.0.45:35006:   4
+group309571699@192.168.0.45:35007:   3
+group309571699@192.168.0.45:35008:   2
+group309571699@192.168.0.45:35009:   2
+
+group309571699@192.168.0.45:35009:   group309571699@192.168.0.45:35000:   2
+group309571699@192.168.0.45:35001:   1
+group309571699@192.168.0.45:35002:   1
+group309571699@192.168.0.45:35003:   1
+group309571699@192.168.0.45:35004:   2
+group309571699@192.168.0.45:35005:   4
+group309571699@192.168.0.45:35006:   4
+group309571699@192.168.0.45:35007:   3
+group309571699@192.168.0.45:35008:   2
+group309571699@192.168.0.45:35009:   2
+
+================================================
