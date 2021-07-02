@@ -5,13 +5,18 @@ Para la realización de esta práctica estoy utilizando Eclipse bajo el S.O. Win
 -	Eclipse Neon 3 versión 4.6.3, edición para Java Developers.
 - Plugin de Eclipse “C/C++ Remote (over TCF/TE) Run/Debug Launcher”, ver. 1.4.0.
 
-![alt text](img/img1.jpg)
 
 El principal problema de la práctica es que está pensada para realizarse bajo entornos Linux. Así, tuve que analizar el fichero “start.sh” y decidí instalar el componente de lanzamiento remoto que sirve para lanzar secuencialmente varias ejecuciones y que, a pesar de su nombre, funciona con cualquier lenguaje.
 Para cada fase tuve que crear configuraciones de ejecución para cada componente:
+
+![alt text](img/img1.jpg)
  
 Es necesario poner especial cuidado en pasar los mismos argumentos que pondríamos al ejecutar el script, además de ejecutarlos desde el directorio “/scripts”.
 Acto seguido creé las secuencias de lanzamiento de componentes utilizando el plugin de lanzamiento remoto:
+
+![alt text](img/img2.jpg)
  
 Una de las cosas que permite el plugin de lanzamiento es ejecutar una acción tras realizar un lanzamiento. Gracias a esto, puedo introducir un retraso entre el lanzamiento del servidor local y el resto de los componentes, como pasa en el script.
 Con todo configurado, los grupos de lanzamiento aparecen en el menú de ejecución. Las pruebas locales se ejecutan con normalidad, y es posible debugear y acceder a la salida de todos los procesos.
+
+![alt text](img/img3.jpg)
